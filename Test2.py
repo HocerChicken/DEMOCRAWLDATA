@@ -43,12 +43,12 @@ def process_words(words, dictionary):
 def main():
     my_dictionary = dict()
 
-    with open('text_m_filtered.txt', 'r', encoding='utf-8') as file:
+    with open('text_u_v_x_y_filtered.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
 
     process_words(data_list, my_dictionary)
 
-    with open('result_m.json', 'w', encoding='utf-8') as fp:
+    with open('result_u_v_x_y.json', 'w', encoding='utf-8') as fp:
       json.dump(my_dictionary, fp, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":

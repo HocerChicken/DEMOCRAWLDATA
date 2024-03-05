@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from pprint import pprint
 
+
 def post_request(url, payload):
     try:
         with requests.Session() as session:
@@ -26,49 +27,51 @@ def crawl_data(word, base_url='https://chunom.net/Tu-Dien.html'):
         print(f"An error occurred during crawling: {e}")
 
 def normalize(word, data, dictionary):    
-    # if not data:
-    #     return  
-    # current_meanings = []
-
-    # for line in data:
-    #     if(len(line)) == 2:
-    #     # [word, meaning] here
-    #         meaning = line[1]
-    #         current_meanings.append(meaning)
-    #     else:
-    #     # [source] here
-    #         source = line[0]
-    #         word_entry = dictionary.setdefault(word, {})
-    #         if source not in word_entry:
-    #             word_entry[source] = []
-    #         word_entry[source].extend(current_meanings)
-    #         current_meanings = []
     if not data:
-        return
-
-    current_entry = {"tu": word, "nguonThamKhao": []}
+        return  
+    current_meanings = []
 
     for line in data:
-        if len(line) >= 2:
-            # [word, meaning] here
-            if current_entry["nguonThamKhao"]:
-                current_entry["nguonThamKhao"][-1]["dinhNghia"].append(line[1])
-        elif line:
-            # [source] here
+        if(len(line)) == 2:
+        # [word, meaning] here
+            meaning = line[1]
+            current_meanings.append(meaning)
+        else:
+        # [source] here
             source = line[0]
-            current_entry["nguonThamKhao"].append({"tacGia": source, "dinhNghia": []})
+            word_entry = dictionary.setdefault(word, {})
+            if source not in word_entry:
+                word_entry[source] = []
+            word_entry[source].extend(current_meanings)
+            current_meanings = []
+    # if not data:
+    #     return
 
-    dictionary[word] = current_entry
+    # current_entry = {"tu": word, "nguonThamKhao": []}
+
+    # for line in data:
+    #     if len(line) >= 2:
+    #         # [word, meaning] here
+    #         if current_entry["nguonThamKhao"]:
+    #             current_entry["nguonThamKhao"][-1]["dinhNghia"].append(line[1])
+    #     elif line:
+    #         # [source] here
+    #         source = line[0]
+    #         current_entry["nguonThamKhao"].append({"tacGia": source, "dinhNghia": []})
+
+    # dictionary[word] = current_entry
 
 def process_words(words, dictionary):
     for word in words:
         crawl_result = crawl_data(word)
         normalize(word, crawl_result, dictionary)
 
+
+
 def main():
     my_dictionary = dict()
     
-    with open('text_a_filtered.txt', 'r', encoding='utf-8') as file:
+    with open('text_a.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
 
     process_words(data_list, my_dictionary)

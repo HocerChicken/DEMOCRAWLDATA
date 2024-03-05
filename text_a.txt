@@ -9,48 +9,7 @@ a tòng
 a tùng	
 a đảng	
 a đẩu	
-a-ba-giua	
-a-ba-toa	
-a-dong	
-a-dốt	
-a-ga	
-a-giăng-đa	
-a-la-mốt	
-a-léc	
-a-lê	
-a-lô	
-a-ma-tơ	
-a-men	
-a-mi	
-a-mi-ăng	
-a-mi-đan	
-a-min	
-a-míp	
-a-mô-ni-ắc	
-a-măng	
-a-ni-lin	
-a-nô-phen	
-a-nốt	
-a-pa-tít	
-a-pác-thai	
-a-pê-ri-típ	
-a-sen	
-a-trô-pin	
-a-tua-đờ-rôn	
-a-vi	
-a-vô-ca	
-a-văng	
-a-văng-ta	
-a-văng-xê	
-a-xpi-rin	
-a-xê-ti-len	
-a-xê-ton	
-a-xít	
-a-xít a-min	
-a-xít béo	
-a-zốt	
 A-đam	
-a-đrê-na-lin	
 ai	
 ai ai	
 ai dè	
@@ -65,12 +24,7 @@ am mây
 am pe	
 am tường	
 am tự	
-am-pe	
-am-pe kế	
-am-pli	
-am-pun	
 an	
-an ba ni	
 an bang	
 an biên	
 an bài	
@@ -105,17 +59,6 @@ an tâm
 An Tịnh	
 an vị	
 an ủi	
-an-bom	
-an-bu-min	
-an-ca-lô-ít	
-an-gin	
-an-go-rít	
-an-pha	
-an-pha-bê	
-an-te	
-an-ti-mon	
-an-tô	
-an-đê-hít	
 ang	
 ang áng	
 anh	
@@ -162,7 +105,6 @@ ao chuôm
 ao hồ	
 ao tù	
 ao ước	
-ao-xơ	
 au	
 Âu hoá	
 Âu phục	
@@ -223,10 +165,6 @@ au
 ác điểu	
 ác đảng	
 ác độc	
-ác-bít	
-ác-mô-ni-ca	
-ác-quy	
-ác-ti-sô	
 ách	
 ách tắc	
 ách vận	
@@ -281,9 +219,6 @@ au
 ánh đèn	
 áo	
 áo bà ba	
-áo bành-tô	
-áo bờ-lu	
-áo bờ-lu-dông	
 áo choàng	
 áo cà sa	
 áo cánh	
@@ -358,15 +293,6 @@ au
 áp điệu	
 áp đảo	
 áp đặt	
-áp-ga-ni	
-áp-phe	
-áp-phích	
-áp-xe	
-át	
-át-lát	
-át-mốt-phe	
-át-phan	
-át-pi-rin	
 áy	
 áy náy	
 âm	
@@ -467,7 +393,6 @@ au
 âu yếm	
 âu đành	
 ăm ắp	
-ăm-pun	
 ăn	
 ăn bám	
 ăn báo cô	
@@ -612,9 +537,6 @@ au
 ăn ảnh	
 ăn ở	
 ăng ẳng	
-ăng-ga	
-ăng-ten	
-ăng-ti-moan	
 ạ	
 ạch	
 ạo ực	
@@ -760,11 +682,6 @@ au
 ậm ừ	
 ập	
 ắc	
-ắc qui	
-ắc-coóc	
-ắc-coóc-đê-ông	
-ắc-quy	
-ắc-xi-đăng	
 ắng	
 ắng cổ	
 ắng họng	

@@ -1,84 +1,84 @@
+import json
+import requests
+from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
+from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
 from xml.dom import minidom
 
-class Word:
-    def __init__(self, meanings, source):
-        self._meanings = meanings
-        self._source = source
+def post_request(url, payload):
+    try:
+        with requests.Session() as session:
+            r = session.post(url, data=payload)
+            r.raise_for_status()
+            return r.content
+    except requests.RequestException as e:
+        print(f"An error occurred during the request: {e}")
 
-    @property
-    def meanings(self):
-        return self._meanings
+def crawl_data(word, base_url='https://chunom.net/Tu-Dien.html'):
+    try:
+        payload = {'inputText': word}
+        data = post_request(base_url, payload)
+        soup = BeautifulSoup(data, 'html.parser')
 
-    @meanings.setter
-    def meanings(self, new_meanings):
-        self._meanings = new_meanings
+        rows = soup.select('.table-responsive tr')
+        result = [[cell.get_text(strip=True) for cell in row.select('td')] for row in rows]
 
-    @property
-    def source(self):
-        return self._source
+        return result
+    except Exception as e:
+        print(f"An error occurred during crawling: {e}")
 
-    @source.setter
-    def source(self, new_source):
-        self._source = new_source
+def normalize(word, data, dictionary, xml_root):
+    if not data:
+        return
 
-    def __str__(self):
-        return f"Word(meanings={self.meanings}, source={self.source})"
+    word_elem = Element("word")
+    title_elem = Element("title")
+    title_elem.text = word
+    word_elem.append(title_elem)
 
-class Dictionary:
-    def __init__(self, words):
-        self._words = words
+    definitions_elem = Element("definitions")
+    word_elem.append(definitions_elem)
 
-    @property
-    def words(self):
-        return self._words
+    current_source_elem = None
 
-    @words.setter
-    def words(self, new_words):
-        self._words = new_words
+    for line in data:
+        if len(line) == 2:
+            # [word, meaning] here
+            meaning = line[1]
+            meaning_elem = Element("meaning")
+            meaning_elem.text = meaning
+            if current_source_elem is not None:
+                current_source_elem.append(meaning_elem)
+        else:
+            # [source] here
+            source = line[0]
+            current_source_elem = Element("source", {"class": source})
+            definitions_elem.append(current_source_elem)
 
-    def add_word(self, word):
-        self._words.append(word)
+    xml_root.append(word_elem)
 
-    def __str__(self):
-        words_str = ', '.join(str(word) for word in self.words)
-        return f"Dictionary(words=[{words_str}])"
-    
+def process_words(words, dictionary, xml_root):
+    for word in words:
+        crawl_result = crawl_data(word)
+        normalize(word, crawl_result, dictionary, xml_root)
 
-data_list = [
-    ['word', 'meaning1'],
-    ['word', 'meaning2'],
-    ['word', 'meaning3'],
-    ['word', 'meaning4'],
-    ['source1'],
-    ['word', 'meaning5'],
-    ['word', 'meaning6'],
-    ['word', 'meaning7'],
-    ['word', 'meaning8'],
-    ['source2']
-]
+def prettify(elem):
+    rough_string = ElementTree(elem).getroot()
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
 
+def main():
+    my_dictionary = dict()
+    xml_root = Element('dictionary')
 
-root = ET.Element("root")
-def export_xml(data_list):
-    global root
-    
-    d = Dictionary()
-    word = Word()
-    
-    d.
+    with open('text_a.txt', 'r', encoding='utf-8') as file:
+        data_list = [line.strip() for line in file.readlines()]
 
+    process_words(data_list, my_dictionary, xml_root)
+    pretty_xml = prettify(xml_root)
 
-    for meaning_text in meanings:
-        meaning = ET.SubElement(source, "meaning")
-        meaning.text = meaning_text
+    with open('result_a.xml', 'wb') as xml_file:
+        xml_file.write(pretty_xml.encode('utf-8'))
 
-# Create an ElementTree from the root element
-tree = ET.ElementTree(root)
-
-# Create a string with the XML content
-xml_string = ET.tostring(root, encoding="utf-8", method="xml").decode("utf-8")
-
-# Use minidom to format the XML string with indentation
-xml_dom = minidom.parseString(xml_string)
-pretty_xml = xml_dom.toprettyxml(indent="  ")
+if __name__ == "__main__":
+    main()

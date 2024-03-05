@@ -82,15 +82,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# data_list = [
-#     ['word', 'meaning1'],
-#     ['word', 'meaning2'],
-#     ['word', 'meaning3'],
-#     ['word', 'meaning4'],
-#     ['source1'],
-#     ['word', 'meaning5'],
-#     ['word', 'meaning6'],
-#     ['word', 'meaning7'],
-#     ['word', 'meaning8'],
-#     ['source2']
-# ]

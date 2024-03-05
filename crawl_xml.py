@@ -64,14 +64,14 @@ def process_words(words, dictionary, xml_root):
 
 def prettify(elem):
     rough_string = ElementTree(elem).getroot()
-    reparsed = minidom.parseString(rough_string)
+    reparsed = minidom.parseString(ET.tostring(rough_string, encoding='utf-8'))
     return reparsed.toprettyxml(indent="  ")
 
 def main():
     my_dictionary = dict()
     xml_root = Element('dictionary')
 
-    with open('text_a.txt', 'r', encoding='utf-8') as file:
+    with open('text_e.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
 
     process_words(data_list, my_dictionary, xml_root)

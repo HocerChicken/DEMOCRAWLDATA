@@ -2,7 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
-from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
+from xml.etree.ElementTree import Element
 from xml.dom import minidom
 
 def post_request(url, payload):
@@ -27,7 +27,8 @@ def crawl_data(word, base_url='https://chunom.net/Tu-Dien.html'):
     except Exception as e:
         print(f"An error occurred during crawling: {e}")
 
-def normalize(word, data, dictionary, xml_root):
+def normalize(word, data, xml_root):
+    # data.reverse()
     if not data:
         return
 
@@ -39,7 +40,7 @@ def normalize(word, data, dictionary, xml_root):
     definitions_elem = Element("definitions")
     word_elem.append(definitions_elem)
 
-    current_source_elem = None
+    current_source_elem = Element("source")
 
     for line in data:
         if len(line) == 2:
@@ -47,34 +48,33 @@ def normalize(word, data, dictionary, xml_root):
             meaning = line[1]
             meaning_elem = Element("meaning")
             meaning_elem.text = meaning
-            if current_source_elem is not None:
-                current_source_elem.append(meaning_elem)
+            current_source_elem.append(meaning_elem)
         else:
             # [source] here
             source = line[0]
-            current_source_elem = Element("source", {"class": source})
+            current_source_elem.set("class", source)
             definitions_elem.append(current_source_elem)
+            current_source_elem = Element("source")
 
     xml_root.append(word_elem)
 
-def process_words(words, dictionary, xml_root):
+def process_words(words, xml_root):
     for word in words:
         crawl_result = crawl_data(word)
-        normalize(word, crawl_result, dictionary, xml_root)
+        normalize(word, crawl_result, xml_root)
 
 def prettify(elem):
-    rough_string = ElementTree(elem).getroot()
-    reparsed = minidom.parseString(ET.tostring(rough_string, encoding='utf-8'))
+    rough_string = ET.tostring(elem, encoding='utf-8')
+    reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
 
 def main():
-    my_dictionary = dict()
     xml_root = Element('dictionary')
 
-    with open('text_e.txt', 'r', encoding='utf-8') as file:
+    with open('text_a.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
-
-    process_words(data_list, my_dictionary, xml_root)
+        
+    process_words(data_list, xml_root) 
     pretty_xml = prettify(xml_root)
 
     with open('result_a.xml', 'wb') as xml_file:
@@ -82,3 +82,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+# data_list = [
+#     ['word', 'meaning1'],
+#     ['word', 'meaning2'],
+#     ['word', 'meaning3'],
+#     ['word', 'meaning4'],
+#     ['source1'],
+#     ['word', 'meaning5'],
+#     ['word', 'meaning6'],
+#     ['word', 'meaning7'],
+#     ['word', 'meaning8'],
+#     ['source2']
+# ]

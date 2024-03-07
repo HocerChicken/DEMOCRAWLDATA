@@ -1,4 +1,3 @@
-import json
 import requests
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
@@ -71,13 +70,13 @@ def prettify(elem):
 def main():
     xml_root = Element('dictionary')
 
-    with open('text_i_k.txt', 'r', encoding='utf-8') as file:
+    with open('text_h.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
         
     process_words(data_list, xml_root) 
     pretty_xml = prettify(xml_root)
 
-    with open('text_i_k.xml', 'wb') as xml_file:
+    with open('result_h.xml', 'wb') as xml_file:
         xml_file.write(pretty_xml.encode('utf-8'))
 
 if __name__ == "__main__":

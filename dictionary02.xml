@@ -1,0 +1,372 @@
+<?xml version="1.0" ?>
+<dictionary>
+  <word>
+    <quocngu>a</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>𠲞V+20c9e</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 6</bothu>
+             <ngucanh>a dàng</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>丫 U+4e2b</nom>
+            <bothu>Bộ: cổn - 0002 Số nét: 2</bothu>
+             <ngucanh>chạy a vào</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>阿 U+963f</nom>
+            <bothu>Bộ: phụ - 0170 Số nét: 5</bothu>
+             <ngucanh>a tòng, a du</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>亞 U+4e9e</nom>
+            <bothu>Bộ: nhị - 0007 Số nét: 6</bothu>
+            <ngucanh>A ha! vui quá.</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>啊 U+554a</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
+            <ngucanh>ề à (hoạt động chậm chạp)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>婀 U+5a40</nom>
+            <bothu>Bộ: nữ - 0038 Số nét: 8</bothu>
+            <ngucanh>dáng thướt tha</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>桠 U+6860</nom>
+            <bothu>Bộ: mộc - 0075 Số nét: 6</bothu>
+            <ngucanh>a (rẽ đôi, trạc cây)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>椏 U+690f</nom>
+            <bothu>Bộ: mộc - 0075 Số nét: 8</bothu>
+            <ngucanh>a (rẽ đôi, trạc cây)</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>妸 U+59b8</nom>
+            <bothu>Bộ: nữ - 0038 Số nét: 5</bothu>
+            <ngucanh>Cô ả</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>阿 U+963f</nom>
+            <bothu>Bộ: phụ - 0170 Số nét: 5</bothu>
+            <ngucanh>a tòng, a du</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ai</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>哀 U+54c0</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 6</bothu>
+             <ngucanh>khóc ai oán</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>	埃 U+57c3</nom>
+            <bothu>Bộ: thổ - 0032 Số nét: 7</bothu>
+             <ngucanh>ai đấy?</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>挨 U+6328</nom>
+            <bothu>Bộ: thủ - 0064 Số nét: 7</bothu>
+            <ngucanh>ai (đến gần)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鎄 U+9384</nom>
+            <bothu>Bộ: kim - 0167 Số nét: 9</bothu>
+            <ngucanh>ai (chất Einsteinium)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>锿 U+953f</nom>
+            <bothu>Bộ: kim - 167S Số nét: 9</bothu>
+            <ngucanh>ai (chất Einsteinium)</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>唉 U+5509</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 7</bothu>
+            <ngucanh>ai, cha mẹ ôi! (lời than thở)</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>am</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>庵 U+5eb5</nom>
+            <bothu>Bộ: nghiễm - 0053 Số nét: 8</bothu>
+             <ngucanh>am tranh (cái nhà nhỏ của người ẩn dật)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>諳 U+8af3</nom>
+            <bothu>Bộ: ngôn - 0149 Số nét: 9</bothu>
+            <ngucanh>am hiểu (biết rõ)</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>盦 U+76e6</nom>
+            <bothu>Bộ: mãnh - 0108 Số nét: 11</bothu>
+            <ngucanh>cái am (nồi)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>谙 U+8c19</nom>
+            <bothu>Bộ: ngôn - 149S Số nét: 9</bothu>
+            <ngucanh>am hiểu (biết rõ)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鵪 U+9d6a</nom>
+            <bothu>Bộ: điểu - 0196 Số nét: 8</bothu>
+            <ngucanh>am thuần (chim cút)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鹌 U+9e4c</nom>
+            <bothu>Bộ: điểu - 196S Số nét: 8</bothu>
+            <ngucanh>am thuần (chim cút)</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>an</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>安 U+5b89</nom>
+            <bothu>Bộ: miên - 0040 Số nét: 3</bothu>
+            <ngucanh>an cư lạc nghiệp</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>𩽾 V+29f7e</nom>
+            <bothu>Bộ: ngư - 0195 Số nét: 6</bothu>
+            <ngucanh>an (loại cá có râu)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>桉 U+6849</nom>
+            <bothu>Bộ: mộc - 0075 Số nét: 6</bothu>
+            <ngucanh>an thụ (cây)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>氨 U+6c28</nom>
+            <bothu>Bộ: khí - 0084 Số nét: 6</bothu>
+            <ngucanh>an (khí amonia)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>胺 U+80fa</nom>
+            <bothu>Bộ: nhục - 0130 Số nét: 6</bothu>
+            <ngucanh>an (chất amine)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>銨 U+92a8</nom>
+            <bothu>Bộ: kim - 0167 Số nét: 6</bothu>
+            <ngucanh>an (chất ammonium)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鞌 U+978c</nom>
+            <bothu>Bộ: cách - 0177 Số nét: 6</bothu>
+            <ngucanh>an (yên ngựa)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鮟 U+9b9f</nom>
+            <bothu>Bộ: ngư - 0195 Số nét: 6</bothu>
+            <ngucanh>an (loại cá có râu)</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>鞍 U+978d</nom>
+            <bothu>Bộ: cách - 0177 Số nét: 6</bothu>
+            <ngucanh>an (yên ngựa)</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>anh</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>嬰 U+5b30</nom>
+            <bothu>Bộ: nữ - 0038 Số nét: 14</bothu>
+            <ngucanh>anh hài (đứa bé mới sinh)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>坱 U+5771</nom>
+            <bothu>Bộ: thổ - 0032 Số nét: 5</bothu>
+            <ngucanh>anh hùng</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>婴 U+5a74</nom>
+            <bothu>Bộ: nữ - 0038 Số nét: 8</bothu>
+            <ngucanh>anh hài (đứa bé mới sinh)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>樱 U+6a31</nom>
+            <bothu>Bộ: mộc - 0075 Số nét: 11</bothu>
+            <ngucanh>hoa anh đào</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>櫻 U+6afb</nom>
+            <bothu>Bộ: mộc - 0075 Số nét: 17</bothu>
+            <ngucanh>cây anh đào</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>纓 U+7e93</nom>
+            <bothu>Bộ: mịch - 0120 Số nét: 17</bothu>
+            <ngucanh>hồng anh thượng (giáo dài có tua đỏ)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>罂 U+7f42</nom>
+            <bothu>Bộ: phẫu - 0121 Số nét: 8</bothu>
+            <ngucanh>quả anh túc</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>莺 U+83ba</nom>
+            <bothu>Bộ: thảo - 0140 Số nét: 7</bothu>
+            <ngucanh>chim vàng anh</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鶧 U+9da7</nom>
+            <bothu>Bộ: điểu - 0196 Số nét: 9</bothu>
+            <ngucanh>chim vàng anh</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鶯 U+9daf</nom>
+            <bothu>Bộ: điểu - 0196 Số nét: 10</bothu>
+            <ngucanh>anh ca yến vũ (cảnh xuân vui vẻ)</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鸚 U+9e1a</nom>
+            <bothu>Bộ: điểu - 0196 Số nét: 17</bothu>
+            <ngucanh>con vẹt</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鹦 U+9e66</nom>
+            <bothu>Bộ: điểu - 196S Số nét: 11</bothu>
+            <ngucanh>con vẹt</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ao</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>凹 U+51f9</nom>
+            <bothu>Bộ: khảm - 0017 Số nét: 3</bothu>
+            <ngucanh>ao lõm lồi</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>泑 U+6cd1</nom>
+            <bothu>Bộ: thuỷ - 0085 Số nét: 5</bothu>
+            <ngucanh>ao cá</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>㘭 U+362d</nom>
+            <bothu>Bộ: thổ - 0032 Số nét: 4</bothu>
+            <ngucanh>ao cá</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>坳 U+5773</nom>
+            <bothu>Bộ: thổ - 0032 Số nét: 5</bothu>
+            <ngucanh>ao hố</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>鏖 U+93d6</nom>
+            <bothu>Bộ: kim - 0167 Số nét: 11</bothu>
+            <ngucanh>đánh giết dữ dội</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>呦 U+5466</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 5</bothu>
+            <ngucanh>ao ước</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ao</quocngu>
+    <dinhnghia>
+      <nguon class="gdhn">
+        <phanloai>
+            <nom>區 U+5340</nom>
+            <bothu>Bộ: phương - 0023 Số nét: 9</bothu>
+            <ngucanh>đỏ au (đỏ thắm, đỏ tươi)</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>泑 U+6cd1</nom>
+            <bothu>Bộ: thuỷ - 0085 Số nét: 5</bothu>
+            <ngucanh>đỏ au (đỏ thắm, đỏ tươi)</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>à</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>啊 U+554a</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
+            <ngucanh>ề à, ậm à</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>阿 U+963f</nom>
+            <bothu>Bộ: phụ - 0170 Số nét: 5</bothu>
+            <ngucanh>à ra thế</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ào</quocngu>
+    <dinhnghia>
+      <nguon class="vhn">
+        <phanloai>
+            <nom>𠯻 V+20bfb</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 4</bothu>
+            <ngucanh>ào ào</ngucanh>
+        </phanloai>
+        <phanloai>
+            <nom>𣿌 V+23fcc</nom>
+            <bothu>Bộ: thuỷ - 0085 Số nét: 13</bothu>
+            <ngucanh>ào ạt</ngucanh>
+        </phanloai>
+      </nguon>
+      <nguon class="btcn">
+        <phanloai>
+            <nom>阿 U+963f</nom>
+            <bothu>Bộ: khẩu - 0030 Số nét: 5</bothu>
+            <ngucanh>ào ào</ngucanh>
+        </phanloai>
+      </nguon>
+    </dinhnghia>
+  </word>
+</dictionary>

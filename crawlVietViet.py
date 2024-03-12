@@ -1,8 +1,8 @@
-import json 
 import requests
 from bs4 import BeautifulSoup
-from pprint import pprint
-
+import xml.etree.ElementTree as ET
+from xml.etree.ElementTree import Element
+from xml.dom import minidom
 
 def post_request(url, payload):
     try:
@@ -20,76 +20,64 @@ def crawl_data(word, base_url='https://chunom.net/Tu-Dien.html'):
         soup = BeautifulSoup(data, 'html.parser')
 
         rows = soup.select('.table-responsive tr')
-        result = [ [cell.get_text(strip=True) for cell in row.select('td')] for row in rows ]
-        
+        result = [[cell.get_text(strip=True) for cell in row.select('td')] for row in rows]
+        print(result)
         return result
     except Exception as e:
         print(f"An error occurred during crawling: {e}")
 
-def normalize(word, data, dictionary):    
+def normalize(word, data, xml_root):
+    # data.reverse()
     if not data:
-        return  
-    current_meanings = []
+        return
+
+    word_elem = Element("word")
+    title_elem = Element("title")
+    title_elem.text = word
+    word_elem.append(title_elem)
+
+    definitions_elem = Element("definitions")
+    word_elem.append(definitions_elem)
+
+    current_source_elem = Element("source")
 
     for line in data:
-        if(len(line)) == 2:
-        # [word, meaning] here
+        if len(line) == 2:
+            # [word, meaning] here
             meaning = line[1]
-            current_meanings.append(meaning)
+            meaning_elem = Element("meaning")
+            meaning_elem.text = meaning
+            current_source_elem.append(meaning_elem)
         else:
-        # [source] here
+            # [source] here
             source = line[0]
-            word_entry = dictionary.setdefault(word, {})
-            if source not in word_entry:
-                word_entry[source] = []
-            word_entry[source].extend(current_meanings)
-            current_meanings = []
-    # if not data:
-    #     return
+            current_source_elem.set("class", source)
+            definitions_elem.append(current_source_elem)
+            current_source_elem = Element("source")
 
-    # current_entry = {"tu": word, "nguonThamKhao": []}
+    xml_root.append(word_elem)
 
-    # for line in data:
-    #     if len(line) >= 2:
-    #         # [word, meaning] here
-    #         if current_entry["nguonThamKhao"]:
-    #             current_entry["nguonThamKhao"][-1]["dinhNghia"].append(line[1])
-    #     elif line:
-    #         # [source] here
-    #         source = line[0]
-    #         current_entry["nguonThamKhao"].append({"tacGia": source, "dinhNghia": []})
-
-    # dictionary[word] = current_entry
-
-def process_words(words, dictionary):
+def process_words(words, xml_root):
     for word in words:
         crawl_result = crawl_data(word)
-        normalize(word, crawl_result, dictionary)
+        normalize(word, crawl_result, xml_root)
 
-
+def prettify(elem):
+    rough_string = ET.tostring(elem, encoding='utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
 
 def main():
-    my_dictionary = dict()
-    
-    with open('text_a.txt', 'r', encoding='utf-8') as file:
+    xml_root = Element('dictionary')
+
+    with open('merge_output.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
+        
+    process_words(data_list, xml_root) 
+    pretty_xml = prettify(xml_root)
 
-    process_words(data_list, my_dictionary)
-
-    with open('result_a.json', 'w', encoding='utf-8') as fp:
-      json.dump(my_dictionary, fp, ensure_ascii=False, indent=2)
+    with open('dictionary02test.xml', 'wb') as xml_file:
+        xml_file.write(pretty_xml.encode('utf-8'))
 
 if __name__ == "__main__":
     main()
-# data_list = [
-#     ['word', 'meaning1'],
-#     ['word', 'meaning2'],
-#     ['word', 'meaning3'],
-#     ['word', 'meaning4'],
-#     ['source1'],
-#     ['word', 'meaning5'],
-#     ['word', 'meaning6'],
-#     ['word', 'meaning7'],
-#     ['word', 'meaning8'],
-#     ['source2']
-# ]

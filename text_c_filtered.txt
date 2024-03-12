@@ -1,22 +1,8 @@
-Cam
-Cao
-Chu
-Chí
-Chăm
-Chương
-Công
-Cơ
-Cầu
-Cổ
-Cửa
 ca
 cai
-cam
 can
 canh
-cao
 cau
-caught
 cay
 cha
 chai
@@ -74,7 +60,6 @@ choảng
 choắc
 choắt
 choẹt
-chu
 chua
 chui
 chum
@@ -141,7 +126,6 @@ chì
 chìa
 chìm
 chình
-chí
 chích
 chín
 chính
@@ -181,7 +165,6 @@ chúi
 chúm
 chúng
 chút
-chăm
 chăn
 chăng
 chĩa
@@ -195,7 +178,6 @@ chư
 chưa
 chưn
 chưng
-chương
 chước
 chướng
 chườm
@@ -380,7 +362,6 @@ cáy
 câm
 cân
 câng
-câu
 cây
 cãi
 cò
@@ -398,7 +379,6 @@ cô
 côi
 côm
 côn
-công
 cộng
 cõi
 cõng
@@ -422,7 +402,6 @@ cũ
 cũi
 cũn
 cũng
-cơ
 cơi
 cơm
 cơn
@@ -514,7 +493,6 @@ cồi
 cồm
 cồn
 cồng
-cổ
 cổi
 cổn
 cổng
@@ -555,7 +533,6 @@ cứu
 cừ
 cừu
 cử
-cửa
 cửi
 cửng
 cửu

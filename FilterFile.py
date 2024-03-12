@@ -11,11 +11,11 @@ def remove_duplicates(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as file:
         for line in file:
             word = line.strip()
-            if word:  # Check if the line is not empty
+            if word:
                 unique_words.add(word)
 
     with open(output_file, 'w', encoding='utf-8') as output_file:
-        for word in sorted(unique_words):  # Sort the words if needed
+        for word in sorted(unique_words):  
             output_file.write(f"{word}\n")
 
 remove_duplicates("text_a_filtered.txt", "text_a_filtered.txt")

@@ -1,0 +1,6672 @@
+<?xml version="1.0" ?>
+<dictionary>
+  <word>
+    <quocngu>ma</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>么</hannom>
+        <ngucanh>Đa ma (bao nhiêu); Giá ma (cái gì đây)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>how many; what is this</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>吗</hannom>
+        <ngucanh>Hảo ma (khoẻ không); hiệu ma (số mấy)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>how about you; what number</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嗎</hannom>
+        <ngucanh>Hảo ma (khoẻ không); hiệu ma (số mấy)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>how about you; what number</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嘛</hannom>
+        <ngucanh>Lạt ma (Giáo sĩ Tây Tạng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>Tay Tang priest</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>妈</hannom>
+        <ngucanh>Ma ma (mẹ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mother</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媽</hannom>
+        <ngucanh>Ma ma (mẹ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mother</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嬷</hannom>
+        <ngucanh>Ma ma (mẹ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mother</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摩</hannom>
+        <ngucanh>Ma sa (cọ sát); ma đao (mài dao)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to rub; to grind/sharpen a knife</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬍄</hannom>
+        <ngucanh>(con chó)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>dog</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䁲</hannom>
+        <ngucanh>ma (nhìn nhé, nhìn trộm); ma mãnh</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to peep; to look at something stealthily; (Cant.) to close the eyes</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>磨</hannom>
+        <ngucanh>Ma sa (cọ sát); ma đao (mài dao)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to rub; to grind/sharpen a knife</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蔴</hannom>
+        <ngucanh>Đại ma (cần sa); ma hoàng (loại dược thảo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>hashish; kind of medical plant</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蘑</hannom>
+        <ngucanh>Ma cô (nấm);  Ma chiến thuật (đánh cầm chừng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mushroom; fighting at an indifferent level</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>魔</hannom>
+        <ngucanh>ma quỉ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>demon, evil</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mai</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠶣</hannom>
+        <ngucanh>mỉa mai</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>ironical</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>埋</hannom>
+        <ngucanh>mai một</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>lost in oblivion</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媒</hannom>
+        <ngucanh>mai mối</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>match-maker</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢲪</hannom>
+        <ngucanh>mai mực</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>cuttle - bone</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰉠</hannom>
+        <ngucanh>hôm mai</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>morning and evening</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣈕</hannom>
+        <ngucanh>mai sau</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>in the future</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪰹</hannom>
+        <ngucanh>mai sau</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>in the future</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰉪</hannom>
+        <ngucanh>hôm mai</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>morning and evening</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>枚</hannom>
+        <ngucanh>hàm mai; hoả mai</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>stalk of shrub, trunk of tree</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>梅</hannom>
+        <ngucanh>cây mai</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>apricot blossom</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>楳</hannom>
+        <ngucanh>cây mai</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>apricot blossom</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>槑</hannom>
+        <ngucanh>cây mai</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>apricot blossom</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>煤</hannom>
+        <ngucanh>mai khí (than đá)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>fossil coal</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>玟</hannom>
+        <ngucanh>mai côi (ngọc đỏ); hoa mai côi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>red gem, roses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>玫</hannom>
+        <ngucanh>mai khôi (hoa hồng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>roses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫂚</hannom>
+        <ngucanh>thảo mai</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>莓</hannom>
+        <ngucanh>thảo mai (dâu tây)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>strawberry</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔌</hannom>
+        <ngucanh>mai cua; mai rùa</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>crab, tortoise shells</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨨦</hannom>
+        <ngucanh>cái mai</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>carapace. spade</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>霉</hannom>
+        <ngucanh>phát mai (mốc);hoàng mai quý (mưa xuân)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>get mouldy; spring rain</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>man</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>埋</hannom>
+        <ngucanh>khai man</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to make a false statement</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>曼</hannom>
+        <ngucanh>lan man</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>rambling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>漫</hannom>
+        <ngucanh>man mác</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>vast, immense</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>熳</hannom>
+        <ngucanh>miên man</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to go elsewhere, to wander</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞒</hannom>
+        <ngucanh>mê man</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>unconscious, faint</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞞</hannom>
+        <ngucanh>mê man</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>unconscious, faint</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>芒</hannom>
+        <ngucanh>mê man</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>unconscious, faint</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蔓</hannom>
+        <ngucanh>lan man</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>rambling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蛮</hannom>
+        <ngucanh>man rợ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>savage, cruel</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蠻</hannom>
+        <ngucanh>man rợ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>savage, cruel</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬡯</hannom>
+        <ngucanh>(chăn)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>blanket</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>謾</hannom>
+        <ngucanh>lan man</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>rambling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>谩</hannom>
+        <ngucanh>lan man</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rambling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鏝</hannom>
+        <ngucanh>man (dụng cụ xới đất)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tool used to turn up soil</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>镘</hannom>
+        <ngucanh>man (dụng cụ xới đất)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tool used to turn up soil</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>顢</hannom>
+        <ngucanh>man hiên (vụng về)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>awkward, clumsy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>颟</hannom>
+        <ngucanh>man hiên (vụng về)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>awkward, clumsy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>饅</hannom>
+        <ngucanh>man thầu (bánh bao)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dumpling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>馒</hannom>
+        <ngucanh>man thầu (bánh bao)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dumpling</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>manh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>氓</hannom>
+        <ngucanh>lưu manh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>scoundrel, dishonest</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>甍</hannom>
+        <ngucanh>manh (cái rui đóng trên mái nhà để móc ngói)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>a piece attached in roof to hook tile</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>甿</hannom>
+        <ngucanh>lưu manh</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>scoundrel, dishonest</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>盲</hannom>
+        <ngucanh>mắt thong manh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cataract eye</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞑</hannom>
+        <ngucanh>mắt thong manh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>close eyes</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥯋</hannom>
+        <ngucanh>manh nha</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>germ, sprout</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>萌</hannom>
+        <ngucanh>manh nha</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>germ, sprout</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>虻</hannom>
+        <ngucanh>ngưu manh (sâu, mồng hay cắn trâu bò)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>insects biting beef, buffalo</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mao</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>旄</hannom>
+        <ngucanh>cờ mao</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a kind of ancient flag; old</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>毛</hannom>
+        <ngucanh>lông mao</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hair, fur, feathers; coarse</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>氂</hannom>
+        <ngucanh>mao ngưu (trâu đuôi dài)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>long tail buffalo</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>牦</hannom>
+        <ngucanh>mao ngưu (trâu đuôi dài)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>long tail buffalo</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瑁</hannom>
+        <ngucanh>mũ mao (ngọc mạo)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>fine piece of jade</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬐒</hannom>
+        <ngucanh/>
+        <nguon>gdhn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>茆</hannom>
+        <ngucanh>cỏ mao</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>grass, weed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>茅</hannom>
+        <ngucanh>mao xá (nhà lợp cỏ); bạch mao (dược thảo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>grass house; herb</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mau</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>㕰</hannom>
+        <ngucanh>mau chóng, mau miệng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>rapid, prompt, quick, have the quick reply</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>毛</hannom>
+        <ngucanh>mau chóng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>rapid, promp, quick</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣭻</hannom>
+        <ngucanh>mau chân</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>swift - footed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰶨</hannom>
+        <ngucanh>mau chóng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rapid, promp, quick</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䋃</hannom>
+        <ngucanh>chữ viết mau, mắt lưới mau</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>quick writing letter, to glide fast</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨖧</hannom>
+        <ngucanh>mau lên, đi mau, chạy mau, mau mau</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hurry up!</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>may</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪝅</hannom>
+        <ngucanh>may mắn, rủi may</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>luck, pure chance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫥏</hannom>
+        <ngucanh>may mắn, rủi may</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>luck, pure chance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>埋</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>bury, secrete, conceal</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮋</hannom>
+        <ngucanh>mảy may</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a little/wee bit of, a hint of; an/one iota of</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>幸</hannom>
+        <ngucanh>may mắn, rủi may</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>luck, pure chance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢆧</hannom>
+        <ngucanh>may mắn, rủi may</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>luck, pure chance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢆨</hannom>
+        <ngucanh>chẳng may</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>unhappily, unfortunately, unluckily</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢆪</hannom>
+        <ngucanh>may mắn, rủi may</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>luck, pure chance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>枚</hannom>
+        <ngucanh>may mắn, rủi may</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>luck, pure chance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬂸</hannom>
+        <ngucanh>mảy may</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a little/wee bit of, a hint of; an/one iota of</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈙</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>󰑑</hannom>
+        <ngucanh>may vá, may áo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to sew and mend</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦁼</hannom>
+        <ngucanh>may vá, may áo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to sew and mend</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫃷</hannom>
+        <ngucanh>may vá, may áo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to sew and mend</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦄆</hannom>
+        <ngucanh>may vá, may áo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to sew and mend</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𧛉</hannom>
+        <ngucanh>may vá, may áo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to sew and mend</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>me</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>咩</hannom>
+        <ngucanh>me me (tiếng kêu be be)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sound of goat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>楣</hannom>
+        <ngucanh>cây me</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>tamarind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>湄</hannom>
+        <ngucanh>máu me; năm mới năm me</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>passion; new year</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>men</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𤁗</hannom>
+        <ngucanh>khảm men biếc</ngucanh>
+        <nguon>ndtd</nguon>
+        <phienam>inlay with azure blue enamel</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥽔</hannom>
+        <ngucanh>men rượu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>alcohol yeast</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥾃</hannom>
+        <ngucanh>men rượu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>alcohol yeast</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>綿</hannom>
+        <ngucanh>men theo</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>follow along</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󱗜</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠋥</hannom>
+        <ngucanh>mi tau (mày tao)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>you and me</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>劘</hannom>
+        <ngucanh>làm đường mi (cắt gọt)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>make into mince</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嵋</hannom>
+        <ngucanh>núi Nga mi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>Omei mountain in Sichuan</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>楣</hannom>
+        <ngucanh>môn mi (khung phía trên cửa)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>crossbeam above or under gate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>湄</hannom>
+        <ngucanh>Mi công giang (sông Mê kông: Sông cửu long)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>Mekong River</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>眉</hannom>
+        <ngucanh>lông mi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>eyebrows</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>糜</hannom>
+        <ngucanh>mi tử (cháo kê); mi làn (thối nát)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>soup; corrupt</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>縻</hannom>
+        <ngucanh>mi toạ (ngồi ôm khư khư)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to grip something in one's arms</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𧃲</hannom>
+        <ngucanh>đồ mi (dâu ba lá)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mulberry with three leaves</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䕷</hannom>
+        <ngucanh>đồ mi (dâu ba lá)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mulberry with three leaves</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰖼</hannom>
+        <ngucanh>đồ mi (dâu ba lá, trái có thể nấu rượu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mulberry with three leaves</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鎇</hannom>
+        <ngucanh>Chất americium (AM)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>americium</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>镅</hannom>
+        <ngucanh>Chất americium (AM)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>americium</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>minh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冥</hannom>
+        <ngucanh>u u minh minh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>illiterate, ignorant</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>明</hannom>
+        <ngucanh>minh mẫn, thông minh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>perpicacious, clairvoyant</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>暝</hannom>
+        <ngucanh>thiên dĩ minh (trời đã tối)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dark sky</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>溟</hannom>
+        <ngucanh>Đông minh (biển Đông)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>East sea</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>盟</hannom>
+        <ngucanh>minh thệ (thề)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>swear; oath, covenant, alliance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞑</hannom>
+        <ngucanh>tử bất minh (chết khó nhắm mắt)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to die without closing eyes</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>茗</hannom>
+        <ngucanh>phẩm minh (búp trà)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tender tea leaves</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨠲</hannom>
+        <ngucanh>minh đính (say rượu)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>drunk, squiffy, tipsy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>酩</hannom>
+        <ngucanh>minh đính (say rượu)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>being drunk</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>銘</hannom>
+        <ngucanh>minh văn (bài văn khắc trên đá )</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>an article engraved in the stone</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>铭</hannom>
+        <ngucanh>minh văn (bài văn khắc trên đá )</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>an article engraved in the stone</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miêu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>喵</hannom>
+        <ngucanh>tiếng kêu miêu miêu (meo meo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>the mew of the cat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>描</hannom>
+        <ngucanh>miêu tả</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to describe, to define</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>猫</hannom>
+        <ngucanh>con miêu (mèo)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>cat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞄</hannom>
+        <ngucanh>miêu (chăm chú nhìn ngắm)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>take aim at; look at</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦏒</hannom>
+        <ngucanh>miêu (đẹp đẽ); mĩ miều</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>affectedly pretty, dainty</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>苗</hannom>
+        <ngucanh>miêu sàng (nương mạ); miêu phố (vườn ương)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>rice-seedling field; nursery garden</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蝥</hannom>
+        <ngucanh>ban miêu (xác bọ cantharides phơi khô làm thuốc)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a fly which is used similarly to cantharides</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>貓</hannom>
+        <ngucanh>con miêu (mèo)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>cat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>錨</hannom>
+        <ngucanh>phao miêu(mỏ neo); khởi miêu (nhổ neo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>anchor</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>锚</hannom>
+        <ngucanh>phao miêu(mỏ neo); khởi miêu (nhổ neo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>anchor</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miến</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𭰫</hannom>
+        <ngucanh>trầm miến (đam mê); trầm miến vu tửu (đam mê rượu chè)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to indulge; to indulge alcoholism</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>湎</hannom>
+        <ngucanh>trầm miến (đam mê); trầm miến vu tửu (đam mê rượu chè)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to indulge; to indulge wine and tea</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>糆</hannom>
+        <ngucanh>miến ãn, lúa miến</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>sorghum</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬗟</hannom>
+        <ngucanh>miến hoài (xa xưa, xa xăm); Miến điện (tên nước)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>in the old days, very far; name of country</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>緬</hannom>
+        <ngucanh>miến hoài (xa xưa, xa xăm); Miến điện (tên nước)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>in the old days; name of country</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>缅</hannom>
+        <ngucanh>miến hoài (xa xưa, xa xăm); Miến điện (tên nước)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>in the old days; name of country</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>靣</hannom>
+        <ngucanh>canh miến; miến phấn (bột tán); miến hồ (bột dính); đại mễ miến (bột gạo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>vermicelli made of cassava; talcum; sticky; rice flour</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>面</hannom>
+        <ngucanh>canh miến; miến phấn (bột tán); miến hồ (bột dính); đại mễ miến (bột gạo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>vermicelli made of cassava; talcum; sticky; rice flour</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>麪</hannom>
+        <ngucanh>canh miến; miến phấn (bột tán); miến hồ (bột dính); đại mễ miến (bột gạo)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>vermicelli made of cassava; stick; rice flour</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miếng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠰘</hannom>
+        <ngucanh>miếng ăn; vừa miếng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bread and butter; piece, bit,lump</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠰳</hannom>
+        <ngucanh>miếng ngon</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>titbit, tidbit</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>唤</hannom>
+        <ngucanh>miếng ngon</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>titbit, tidbit</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠷦</hannom>
+        <ngucanh>miếng trầu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>betel</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miết</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>瞥</hannom>
+        <ngucanh>miết (liếc nhìn); miết kiến (tình cờ gặp)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to glance at; accidental meeting</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>篾</hannom>
+        <ngucanh>mải miết</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>absorbed (in), preoccupied (with), engrossed (in)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蔑</hannom>
+        <ngucanh>mải miết</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>absorbed (in), preoccupied (with), engrossed (in)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miếu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫮂</hannom>
+        <ngucanh>đền miếu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>temples</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>庙</hannom>
+        <ngucanh>cái miếu, miếu mạo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>temples, shrines</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miền</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫦇</hannom>
+        <ngucanh>một miền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>one region</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miễn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>免</hannom>
+        <ngucanh>miễn sao; miễn cưỡng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>provided (that); providing (that); unwillingly, reductant, grudging</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>勉</hannom>
+        <ngucanh>miễn sao; miễn cưỡng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>provided (that); providing (that); unwillingly, reductant, grudging</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miễu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>庙</hannom>
+        <ngucanh>miễu (miếu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>廟</hannom>
+        <ngucanh>miễu (miếu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>(K) ancestral temple, shrine; imperial court</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miệng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠰘</hannom>
+        <ngucanh>mồm miệng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mouth, tongue</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>miệt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡌀</hannom>
+        <ngucanh>miệt vườn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>hick</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㩢</hannom>
+        <ngucanh>miệt thị</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>despise, hold in contempt, disdain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>櫗</hannom>
+        <ngucanh>miệt vườn</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>hick</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤻻</hannom>
+        <ngucanh>miệt mài</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>devote oneself to</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䁾</hannom>
+        <ngucanh>miệt thị</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>despise, hold in contempt, disdain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>篾</hannom>
+        <ngucanh>miệt phiến (lạt tre)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bamboo strip</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰐝</hannom>
+        <ngucanh>miệt phiến (lạt tre); miệt thanh (cật tre)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bamboo strip; bamboo splints</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蔑</hannom>
+        <ngucanh>miệt thị</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>despise, hold in contempt, disdain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰓳</hannom>
+        <ngucanh>miệt thị; vu miệt (nói xấu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>despise, hold in contempt, disdain; to speak badly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔣</hannom>
+        <ngucanh>miệt mòng (con mòng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>gadfly, horsefly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蠛</hannom>
+        <ngucanh>miệt mòng (con mòng)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>gadfly, horsefly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔩</hannom>
+        <ngucanh>miệt thị; vu miệt (nói xấu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>despise, hold in contempt, disdain; to speak badly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>衊</hannom>
+        <ngucanh>miệt thị</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>despise, hold in contempt, disdain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>袜</hannom>
+        <ngucanh>miệt tử (bít tất)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>socks</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔹</hannom>
+        <ngucanh>miệt tử (bít tất)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>socks</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>襪</hannom>
+        <ngucanh>miệt tử (bít tất)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>socks</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨡊</hannom>
+        <ngucanh>miền miệt, mài miệt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to be absorbed in</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mo</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh>mo nang</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>sheath of bamboo shoot</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥀳</hannom>
+        <ngucanh>mặt mo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>brazen face</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥷺</hannom>
+        <ngucanh>mo cau</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>spathe (of areca tree)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𧄲</hannom>
+        <ngucanh>mo cau</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>spathe (of areca tree)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>moi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>娒</hannom>
+        <ngucanh>moi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媒</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>go-between, matchmaker; medium</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫴱</hannom>
+        <ngucanh>moi ra; moi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dig, expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰅁</hannom>
+        <ngucanh>moi ra; moi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dig, expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰇻</hannom>
+        <ngucanh>moi ra; moi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dig, expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰈘</hannom>
+        <ngucanh>moi ra; moi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dig, expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>枚</hannom>
+        <ngucanh>moi ra; moi móc</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to dig, expose (someone's defects...), run down</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mon</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>們</hannom>
+        <ngucanh>mon men</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>approach with small step</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱱊</hannom>
+        <ngucanh>mon men bên vực thẳm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>on the brick of gulf</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤷱</hannom>
+        <ngucanh>mon men bên vực thẳm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>on the brick of gulf</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬦢</hannom>
+        <ngucanh>mon men</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>approach with small step</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mong</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>懞</hannom>
+        <ngucanh>mong muốn, mong mỏi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>desire, long for</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mua</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡃗</hannom>
+        <ngucanh>mua bán</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to do business</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢱖</hannom>
+        <ngucanh>múa máy</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摸</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>gently touch with hand; caress</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh>mua bán, cây mua</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to do business</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>謨</hannom>
+        <ngucanh>mua bán</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to do business</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mui</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>梅</hannom>
+        <ngucanh>mui thuyền</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>a boat's top</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥯍</hannom>
+        <ngucanh>mui thuyền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a boat's top</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muôn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>万</hannom>
+        <ngucanh>muôn vạn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ten thousand; innumerable</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>萬</hannom>
+        <ngucanh>muôn vạn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ten thousand; innumerable</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𰿘</hannom>
+        <ngucanh>muôn năm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>long live</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>閍</hannom>
+        <ngucanh>muôn ngàn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>anyhow, in any case</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨷈</hannom>
+        <ngucanh>muôn vạn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>an uncountable amount of</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muông</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪺿</hannom>
+        <ngucanh>loài muông</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>animals (esp. quadrupeds)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muối</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>㙁</hannom>
+        <ngucanh>muối mặn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>salt; pickle; salty, salted</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>酶</hannom>
+        <ngucanh>muối biển</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sea salt</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪉥</hannom>
+        <ngucanh>muối dưa</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>preserve vegetables in salt</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muốn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫹰</hannom>
+        <ngucanh>ham muốn, mong muốn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to desire, to covet, to want</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫺓</hannom>
+        <ngucanh>ham muốn, mong muốn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to desire, to covet, to want</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>悶</hannom>
+        <ngucanh>muốn làm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to want to do something</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muống</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh>rau muống</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>spinach</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡗐</hannom>
+        <ngucanh>rau muống</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>spinach</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰅯</hannom>
+        <ngucanh>rau muống</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>spinach</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤮠</hannom>
+        <ngucanh>cái muống</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>spoon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蒙</hannom>
+        <ngucanh>rau muống</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>spinach</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬞁</hannom>
+        <ngucanh>rau muống</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>spinach</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蕄</hannom>
+        <ngucanh>rau muống</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>spinach</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muồi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>枚</hannom>
+        <ngucanh>chín muồi</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>ripe, mature</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muồng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>椚</hannom>
+        <ngucanh>cây muồng muồng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>crotalaria striata tree</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muỗng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢳠</hannom>
+        <ngucanh>cái muỗng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>spoon</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muội</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>妹</hannom>
+        <ngucanh>hiền muội</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>younger sister</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>昧</hannom>
+        <ngucanh>ám muội</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>shady, dubious, underhand</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>muộn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>悶</hannom>
+        <ngucanh>phiền muộn</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>sad, sorrowful</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㦖</hannom>
+        <ngucanh>sầu muộn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>moping</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>懑</hannom>
+        <ngucanh>sầu muộn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>moping</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>懣</hannom>
+        <ngucanh>sầu muộn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>moping</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>晚</hannom>
+        <ngucanh>chiều muộn; muộn màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>late afternoon; late, tardy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰉣</hannom>
+        <ngucanh>chiều muộn; muộn màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>late afternoon; late, tardy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰉯</hannom>
+        <ngucanh>chiều muộn; muộn màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>late afternoon; late, tardy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>焖</hannom>
+        <ngucanh>sầu muộn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>moping</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mà</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𣻕</hannom>
+        <ngucanh>mặn mà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>passionate, impassioned</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>罵</hannom>
+        <ngucanh>mà mắt</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>cast a spell that causes loss of vision</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mài</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󲈖</hannom>
+        <ngucanh>đá mài, giùi mài, mài dao, miệt mài</ngucanh>
+        <nguon>ty_tdcn</nguon>
+        <phienam>whetstone, study hard, sharpen a knife, devote oneself to</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>埋</hannom>
+        <ngucanh>mài sắc</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to sharpen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢲪</hannom>
+        <ngucanh>miệt mài</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to give oneself up to; to devote oneself to</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫾚</hannom>
+        <ngucanh>đá mài, giùi mài, mài dao, miệt mài</ngucanh>
+        <nguon>ty_tdcn</nguon>
+        <phienam>whetstone, study hard, sharpen a knife, devote oneself to</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥓄</hannom>
+        <ngucanh>mài dao</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to grind/sharpen a knife</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥓴</hannom>
+        <ngucanh>mài dũa</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to grind/sharpen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪿥</hannom>
+        <ngucanh>mài dao</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to grind/sharpen a knife</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥕄</hannom>
+        <ngucanh>dùi mài</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>learn hard</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>磨</hannom>
+        <ngucanh>mài dao</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to grind/sharpen a knife</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦷯</hannom>
+        <ngucanh>củ mài</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>yam</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>màn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>幔</hannom>
+        <ngucanh>màn trời chiếu đất</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>in the open air</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>màng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠴏</hannom>
+        <ngucanh>chẳng màng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>do not care</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>忙</hannom>
+        <ngucanh>mơ màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dream, be a dreamer</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>恾</hannom>
+        <ngucanh>mơ màng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dream, be a dreamer</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬁌</hannom>
+        <ngucanh>mơ màng</ngucanh>
+        <nguon>dtdcn</nguon>
+        <phienam>see vaguely in a dream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰺞</hannom>
+        <ngucanh>màng tai; màng trinh</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ear-drum, hymen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰺠</hannom>
+        <ngucanh>màng tai; màng trinh</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ear-drum, hymen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥇀</hannom>
+        <ngucanh>mắt kéo màng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>have a web in eyes</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦛿</hannom>
+        <ngucanh>màng màng; màng tai</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>membrane, web; ear-drum</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mành</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢅆</hannom>
+        <ngucanh>mành mành</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blind, bamboo blind shades</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>甍</hannom>
+        <ngucanh>tấm mành mành</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bamboo screen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥇽</hannom>
+        <ngucanh>hàng mành</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>an old street in Hanoi</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥯋</hannom>
+        <ngucanh>tấm mành mành</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bamboo screen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫄁</hannom>
+        <ngucanh>mành mành</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blind, bamboo blind shades</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>艋</hannom>
+        <ngucanh>thuyền mành</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>junk, sampan</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mào</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冒</hannom>
+        <ngucanh>mào gà</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㧌</hannom>
+        <ngucanh>mào đầu; khơi mào</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>preamble;  introductory</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>毛</hannom>
+        <ngucanh>mào gà</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰋂</hannom>
+        <ngucanh>mào đầu; khơi mào</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>preamble;  introductory</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣭰</hannom>
+        <ngucanh>mào gà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>牟</hannom>
+        <ngucanh>mào gà</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦙤</hannom>
+        <ngucanh>mào gà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬚱</hannom>
+        <ngucanh>mào gà</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>芼</hannom>
+        <ngucanh>hoa mào gà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cockscomb flowers</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mày</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠋥</hannom>
+        <ngucanh>mày tao</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>you and me</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫵇</hannom>
+        <ngucanh>đầu mày</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>the first part of eyebrow</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮠</hannom>
+        <ngucanh>mày tao</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>you and me</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣭒</hannom>
+        <ngucanh>lông mày</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>eyebrow</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣮮</hannom>
+        <ngucanh>lông mày</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>eyebrow</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪵟</hannom>
+        <ngucanh>lông mày</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>eyebrow</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>má</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>傌</hannom>
+        <ngucanh>chó má, giống má, thuế má</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to curse, to revile, to abuse; to scold</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媽</hannom>
+        <ngucanh>cái má</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cheeks</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥡗</hannom>
+        <ngucanh>lúa má</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>rice, paddy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦟐</hannom>
+        <ngucanh>gò má, má lõm, má hóp, má lúm đồng tiền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cheek-bone, deep-set cheeks, sunken cheeks</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mác</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠖾</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>󰁗</hannom>
+        <ngucanh>thanh mác</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sword</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>博</hannom>
+        <ngucanh>giáo mác</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>cold steel (weapons in former times)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢨃</hannom>
+        <ngucanh>cái mác, mũi mác</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cold steel (weapons in former times)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>漠</hannom>
+        <ngucanh>man mác</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>vague, vaguely</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>莫</hannom>
+        <ngucanh>rau mác</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>do not, is not, can not; negative</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mách</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠰌</hannom>
+        <ngucanh>mách lẻo, thóc mách</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to tell tales; to interfere</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mái</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠃅</hannom>
+        <ngucanh>mái nhà; gà mái</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>roof; hen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㜥</hannom>
+        <ngucanh>con mái (giống chim); gà mái, chim mái; Trống (sống) mái một phen</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>female (bird); hen; to be determined to fight to the finish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡣧</hannom>
+        <ngucanh>con mái (giống chim); gà mái, chim mái; Trống (sống) mái một phen</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>female (bird); hen; to be determined to fight to the finish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>枚</hannom>
+        <ngucanh>mái chèo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>oar</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>梅</hannom>
+        <ngucanh>mái chèo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>oar</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬄹</hannom>
+        <ngucanh>mái chèo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>oar</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>máng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢳠</hannom>
+        <ngucanh>máng nước; máng lợn (heo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>water trough; feeding trough</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣙷</hannom>
+        <ngucanh>máng nước; máng lợn (heo)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>water trough; feeding trough</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mánh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𥯋</hannom>
+        <ngucanh>mánh lới</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>trick, dodge, gimmick</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mát</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠖾</hannom>
+        <ngucanh>mát mặt, tắm mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>contented, well-off; to have a cold bath</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>沫</hannom>
+        <ngucanh>mát mẻ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cool, fresh</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬟼</hannom>
+        <ngucanh>con mát (con mạt)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bird-mite</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩗂</hannom>
+        <ngucanh>gió mát, hóng mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>fresh breeze, to get some fresh air</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>máu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>昴</hannom>
+        <ngucanh>máu mủ, mạch máu, dòng máu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blood relationship, blood vessel; bloodstream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>泖</hannom>
+        <ngucanh>máu chảy</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blood flowed down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥁚</hannom>
+        <ngucanh>máu mủ, mạch máu, dòng máu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blood relationship, blood vessel, blood stream</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>máy</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢵯</hannom>
+        <ngucanh>máy móc, máy trời</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>machine</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣛠</hannom>
+        <ngucanh>máy móc, máy trời</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>machine</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mâm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡕩</hannom>
+        <ngucanh>mâm mâm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>eat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣙺</hannom>
+        <ngucanh>mâm xôi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dew - berry</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>盤</hannom>
+        <ngucanh>cái mâm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tray, salver, waiter</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥃑</hannom>
+        <ngucanh>mâm cơm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>tray, salver, waiter of rice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰓋</hannom>
+        <ngucanh>mâm cơm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tray, salver, waiter of rice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥃚</hannom>
+        <ngucanh>mâm cơm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>tray, salver, waiter of rice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥃛</hannom>
+        <ngucanh>mâm cơm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>tray, salver, waiter of rice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪾝</hannom>
+        <ngucanh>mâm cơm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tray, salver, waiter of rice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱲢</hannom>
+        <ngucanh>mâm cơm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tray, salver, waiter of rice</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mân</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰆸</hannom>
+        <ngucanh>mân mê</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>feel, finger</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>抿</hannom>
+        <ngucanh>mân tử (cái lược)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>comb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢺳</hannom>
+        <ngucanh>mân mó</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>feel, touch, finger</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>旻</hannom>
+        <ngucanh>thương mân (trời xanh; trời mùa thu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blue sky, sky in the autumn</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>玟</hannom>
+        <ngucanh>mân côi (mai côi: ngọc đỏ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>red gem</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>玫</hannom>
+        <ngucanh>mân khôi (mai khôi: hoa hồng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>roses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>珉</hannom>
+        <ngucanh>mân (loại đá quý)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>previous gem</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䋋</hannom>
+        <ngucanh>mân (dây xỏ tiền; dây câu cá)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>string to slip money; string to fish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>緍</hannom>
+        <ngucanh>mân (dây xỏ tiền; dây câu cá)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>string to slip money, string to fish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>緡</hannom>
+        <ngucanh>mân (dây xỏ tiền; dây câu cá)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>string to slip money, string to fish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>缗</hannom>
+        <ngucanh>mân (dây xỏ tiền; dây câu cá)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>string to slip money, string to fish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蚊</hannom>
+        <ngucanh>mân tướng (con muỗi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>gnat, mosquito</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mâu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>侔</hannom>
+        <ngucanh>mâu (đều, ngang hàng)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>regular, balanced, the same rank</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>哞</hannom>
+        <ngucanh>mâu (tiếng trâu bò kêu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>the sound of buffalo, beef</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>牟</hannom>
+        <ngucanh>mâu lợi (tìm kiếm)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to look/search for, to seek</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>眸</hannom>
+        <ngucanh>ngưng mâu (đăm đăm)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>waiting intently for (someone, something)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>矛</hannom>
+        <ngucanh>xà mâu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>lance, spear</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mây</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫡮</hannom>
+        <ngucanh>mây gió</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cloud and wind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>梅</hannom>
+        <ngucanh>roi mây; cỏ mây</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cane rod;  chrysopogon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫂗</hannom>
+        <ngucanh>roi mây; cỏ mây</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cane rod; chrysopogon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰐓</hannom>
+        <ngucanh>roi mây; cỏ mây</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cane rod;  chrysopogon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥷻</hannom>
+        <ngucanh>dây mây</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cane string</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬨿</hannom>
+        <ngucanh>áng mây</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cluster of clouds</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨗠</hannom>
+        <ngucanh>áng mây</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cluster of clouds</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mã</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>咩</hannom>
+        <ngucanh>mã (tiếng kêu be be)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sound of goat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠴟</hannom>
+        <ngucanh>mã (tiếng kêu be be)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sound of goat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媽</hannom>
+        <ngucanh>đẹp mã</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>having showy appearance</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>犸</hannom>
+        <ngucanh>mãnh mã (voi lông dài, ngà cong)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mamoth</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>獁</hannom>
+        <ngucanh>mãnh mã (voi lông dài, ngà cong)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mamoth</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>玛</hannom>
+        <ngucanh>mã não</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>agate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瑪</hannom>
+        <ngucanh>mã não</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>agate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>码</hannom>
+        <ngucanh>mã số</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>code</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>碼</hannom>
+        <ngucanh>mã số</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>code</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦄀</hannom>
+        <ngucanh>mũ mã, đồ mã, vàng mã</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hat, gimcrack, votive paper</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蚂</hannom>
+        <ngucanh>mã hoàng (con đỉa)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>leech</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>螞</hannom>
+        <ngucanh>mã hoàng (con đỉa)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>leech</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>馬</hannom>
+        <ngucanh>binh mã</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>troops and horses, military force</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mãi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫡠</hannom>
+        <ngucanh>mãi mãi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>forever, forever and forever</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>买</hannom>
+        <ngucanh>khuyến mãi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to promote, sales promotion</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>荬</hannom>
+        <ngucanh>cự mãi thái (rau diếp)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>lettuce</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mãn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>满</hannom>
+        <ngucanh>mãn nguyện; sung mãn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>content,satisfied; affluent, abundant</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>滿</hannom>
+        <ngucanh>mãn nguyện</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>content,satisfied</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤡁</hannom>
+        <ngucanh>con mãn, con mèo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cat</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mãng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>杧</hannom>
+        <ngucanh>cây mãng cầu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>custard-apple</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mãnh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>猛</hannom>
+        <ngucanh>mãnh thú</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>fierce animal</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>皿</hannom>
+        <ngucanh>mãnh khí</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>shallow container; rad. no. 108</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>艋</hannom>
+        <ngucanh>trá mãnh (thuyền nhỏ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>small boat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蜢</hannom>
+        <ngucanh>trách mãnh (con châu chấu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>grasshopper; locus</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>錳</hannom>
+        <ngucanh/>
+        <nguon>gdhn</nguon>
+        <phienam>manganese</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫙍</hannom>
+        <ngucanh>ma mãnh</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>devil, deuce, devilish</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mão</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>卯</hannom>
+        <ngucanh>giờ mão (5-7 giờ sáng)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>from 5am to 7am</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>帽</hannom>
+        <ngucanh>áo mão</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hat, cap; cap-like tops</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>昴</hannom>
+        <ngucanh>sao mão (một ngôi sao trong nhị thập bát tú)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>one of the 28 constellations</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mè</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>楣</hannom>
+        <ngucanh>rui mè</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>crossbeam above or under gate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>米</hannom>
+        <ngucanh>hạt mè, hạt vừng, muối mè</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>batten, sesame</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥻡</hannom>
+        <ngucanh>cây mè</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>batten</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䱊</hannom>
+        <ngucanh>cá mè, mè nheo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hypophthalmichthys, require, need</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mèm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠻦</hannom>
+        <ngucanh>lèm mèm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mèo</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>猫</hannom>
+        <ngucanh>con mèo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cat</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mé</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠃅</hannom>
+        <ngucanh>mé rừng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>edge of forest</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠩕</hannom>
+        <ngucanh>mé ngoài</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>outside part</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠸍</hannom>
+        <ngucanh>mé ngoài, nói xếch mé</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>outside part, impolite</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰕅</hannom>
+        <ngucanh>mé góc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>corner, angle</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>méc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠼽</hannom>
+        <ngucanh>méc bảo (mách bảo)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>inform, notify</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>méo</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>卯</hannom>
+        <ngucanh>méo mó</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>crooked, wry</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠰭</hannom>
+        <ngucanh>miệng méo mó</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>crooked smile</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mép</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠰏</hannom>
+        <ngucanh>mồm mép</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tongue</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠲵</hannom>
+        <ngucanh>ria mép</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mustache</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠵐</hannom>
+        <ngucanh>ria mép</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mustache</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mét</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠼽</hannom>
+        <ngucanh>mét (phạm quy)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>break examination regulations</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mê</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󱔗</hannom>
+        <ngucanh>hôn mê</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to swoon; to faint; to lose consciousness</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣗌</hannom>
+        <ngucanh>mê thuyền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>like boat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>詸</hannom>
+        <ngucanh>nói mê</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>speak in one's sleep</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>謎</hannom>
+        <ngucanh>nói mê</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>speak in one's sleep</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>迷</hannom>
+        <ngucanh>mê mải</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>take (to), give oneself up (to), devote oneself to, be passionately fond (of)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mênh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冥</hannom>
+        <ngucanh>mênh mông</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>vast, immense, spacious</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫸏</hannom>
+        <ngucanh>mênh mông</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>vast, immense, spacious</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>明</hannom>
+        <ngucanh>mênh mông</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>vast, immense, spacious</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣷠</hannom>
+        <ngucanh>mênh mông</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>vast, immense, spacious</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mì</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>眉</hannom>
+        <ngucanh>nhu mì</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>modest, humble, gentle, meek</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫗗</hannom>
+        <ngucanh>mì ăn liền</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>chinese noodles</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>麪</hannom>
+        <ngucanh>lúa mì; bánh mì; mì sợi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>wheat; bread; vermicelli</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰚻</hannom>
+        <ngucanh>lúa mì; bánh mì; mì sợi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>wheat; bread; vermicelli</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mình</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>命</hannom>
+        <ngucanh>ta với mình</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>you and me</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠵴</hannom>
+        <ngucanh>mình (ta, tôi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mí</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>睸</hannom>
+        <ngucanh>mí mắt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>eyelid</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mím</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪢃</hannom>
+        <ngucanh>mím môi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to tighten lips</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嘜</hannom>
+        <ngucanh>mím môi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to tighten lips</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mít</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰊳</hannom>
+        <ngucanh>cây mít</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>jack-tree</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mò</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢱖</hannom>
+        <ngucanh>mò mẫm, sờ mó</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to feel one's way, to touch</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摹</hannom>
+        <ngucanh>mò mẫm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to grope one's way</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摸</hannom>
+        <ngucanh>mò mẫn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to grope one's way</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫾕</hannom>
+        <ngucanh>mò mẫm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>grope about for a long time, look for a long time</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢺀</hannom>
+        <ngucanh>mò mẫm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to feel one's way</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>暮</hannom>
+        <ngucanh>tối mò</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>dark, gloomy, sombre</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>model, standard, pattern; copy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤂨</hannom>
+        <ngucanh>mò mẫm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to feel one's way</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤇦</hannom>
+        <ngucanh>mò hóng (bồ hóng)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>soot</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰎮</hannom>
+        <ngucanh>tói mò</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dark, gloomy, sombre</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mòi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠳨</hannom>
+        <ngucanh>coi mòi (xem chừng); mặn mòi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to look, to seem, to appear; attractive, winning, alluring, inviting</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠶣</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mòng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh>chốc mòng (lâu mãi cho tới nay); mơ mòng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>moment of waiting; to dream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪩨</hannom>
+        <ngucanh>mòng gà</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>internal organs of a chicken</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈞</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>濛</hannom>
+        <ngucanh>mòng mọng (hơi mọng nước)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>drizzling, misty, raining</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蒙</hannom>
+        <ngucanh>chốc mòng (lâu mãi cho tới nay); mơ mòng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cover; ignorant; suffer; mongolia</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蠓</hannom>
+        <ngucanh>muỗi mòng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>gnat, mosquito</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mó</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢱓</hannom>
+        <ngucanh>sờ mó</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to touch</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>móc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠣛</hannom>
+        <ngucanh>móc vào</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to hook, to seize, to pick</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢪮</hannom>
+        <ngucanh>moi móc</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>木</hannom>
+        <ngucanh>moi móc</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󱔵</hannom>
+        <ngucanh>moi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expose (someone's defects...), run down</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㭉</hannom>
+        <ngucanh>cây móc (cây giồng cây dừa); sợi móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a kind of tree having close relation with cocconut</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰊉</hannom>
+        <ngucanh>móc vào</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to hook</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>沐</hannom>
+        <ngucanh>mưa móc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>boon, favour, grace</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>莯</hannom>
+        <ngucanh>cây móc (cây giồng cây dừa)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a kind of tree having close relation with cocconut</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鈢</hannom>
+        <ngucanh>móc câu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hook</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>món</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>們</hannom>
+        <ngucanh>món ăn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dish; course, food</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱹵</hannom>
+        <ngucanh>món đồ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>an object</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦁺</hannom>
+        <ngucanh>một món, món đồ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>an object</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>móng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡒯</hannom>
+        <ngucanh>nền móng, móng tường</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>foundation, wall foundation</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>幪</hannom>
+        <ngucanh>cái móng (cái mòng: màn chống muỗi)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>mosquito-net</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤔽</hannom>
+        <ngucanh>móng chân, móng vuốt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>toenail, claws</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤔻</hannom>
+        <ngucanh>móng chân, móng vuốt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>toenail, claws</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤔾</hannom>
+        <ngucanh>móng chân, móng vuốt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>toenail, claws</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰍤</hannom>
+        <ngucanh>móng chân, móng vuốt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>toenail, claws</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰍣</hannom>
+        <ngucanh>móng chân, móng vuốt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>toenail, claws</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>矇</hannom>
+        <ngucanh>trông móng (trông mong)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to expect</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦁺</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>䑃</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>dim moon, dark; obscure, stupid; ignorant, to cheat; to hide the truth, to cover up; to hide, plump; fleshy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𧅭</hannom>
+        <ngucanh>hoa móng rồng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a kind of flower like claw of dragon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蠓</hannom>
+        <ngucanh>con móng (loài mòng: ruồi nhặng)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>fly and bluebottle</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mót</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰇖</hannom>
+        <ngucanh>mót đái</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>urgently need to urinate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>懱</hannom>
+        <ngucanh>mót đái</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>urgently need to urinate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㩢</hannom>
+        <ngucanh>mót nhặt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to pick up, to gather</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mô</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>墓</hannom>
+        <ngucanh>mô đất; đi mô (đi đâu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>termite mound; where to go</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摹</hannom>
+        <ngucanh>mô phỏng, mô bản</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to imitate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摸</hannom>
+        <ngucanh>mô sách (tìm tòi)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to study, to research</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh>mô phạm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>model, pattern</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>橅</hannom>
+        <ngucanh>mô phỏng, mô bản</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to imitate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>無</hannom>
+        <ngucanh>nam mô a di đà phật</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>glory to Buddha Amitabha</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>膜</hannom>
+        <ngucanh>cổ mô (màng trống); mô mỡ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ear drums; adipose tissue</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蟆</hannom>
+        <ngucanh>cáp mô (ếch nhái các loại)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>all kinds of frog</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>謨</hannom>
+        <ngucanh>mưu mô</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ruse, stratagem, crafty, artful</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>谟</hannom>
+        <ngucanh>mưu mô</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ruse, stratagem, crafty, artful</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>饃</hannom>
+        <ngucanh>mô (bánh bao)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dumpling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>饝</hannom>
+        <ngucanh>mô (bánh bao)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dumpling</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>môn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>们</hannom>
+        <ngucanh>ngã môn (nhóm mấy người)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a group of several people</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>們</hannom>
+        <ngucanh>ngã môn (nhóm mấy người)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>a group of several people</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>扪</hannom>
+        <ngucanh>môn tâm tự vấn (đấm ngực xét mình)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to punch chest to judge oneseft</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>捫</hannom>
+        <ngucanh>môn tâm tự vấn (đấm ngực xét mình)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to punch chest to judge oneseft</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>菛</hannom>
+        <ngucanh>khoai môn; Hóc môn (tên địa danh)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>Indian taro, place-name</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鍆</hannom>
+        <ngucanh>chất Md mendelevium</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>Md mendelevium</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>钔</hannom>
+        <ngucanh>chất Md mendelevium</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mendelevium (Md)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mông</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>曚</hannom>
+        <ngucanh>mông lung</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>misty, foggy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>朦</hannom>
+        <ngucanh>mông lung; mông đít</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>misty, foggy; rear</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰊅</hannom>
+        <ngucanh>mông lung; mông đít</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>misty, foggy; rear</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>檬</hannom>
+        <ngucanh>nịnh mông (cây tranh)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>type of locust oracacia</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰊷</hannom>
+        <ngucanh>mông (cây chanh)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>lemon; lime</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>濛</hannom>
+        <ngucanh>mênh mông</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>vast, immense, boundless</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰌃</hannom>
+        <ngucanh>mênh mông</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>vast; immense; boundless</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰌩</hannom>
+        <ngucanh>Mông cổ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>name of one country</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>獴</hannom>
+        <ngucanh>mông (chồn Mongoose)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>weasel; fox of Mongoose</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>矇</hannom>
+        <ngucanh>mông lung</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>misty, foggy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䑃</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>dim moon, dark; obscure, stupid; ignorant, to cheat; to hide the truth, to cover up; to hide, plump; fleshy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>艨</hannom>
+        <ngucanh>mông đồng (tàu chiến)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>warship</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蒙</hannom>
+        <ngucanh>Mông cổ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>name of one country</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>虻</hannom>
+        <ngucanh>ngưu mông (con mòng, chuyên đốt trâu bò)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>gad-fly (type of insect biting buffalo, beef)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蝱</hannom>
+        <ngucanh>ngưu mông (con mòng, chuyên đốt trâu bò)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>gad-fly (type of insect biting buffalo, beef)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mõm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠻦</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mù</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫡪</hannom>
+        <ngucanh>(mù)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh>mù u (cây giống cây hoa mai)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>relative of apricot blossom</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪾤</hannom>
+        <ngucanh>mù mắt, đui mù</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>眓</hannom>
+        <ngucanh>mù mắt, đui mù</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈤</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>瞙</hannom>
+        <ngucanh>mù mắt, đui mù</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥊦</hannom>
+        <ngucanh>mù mắt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱳚</hannom>
+        <ngucanh>mù mắt, đui mù</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰎻</hannom>
+        <ngucanh>mù mắt, đui mù</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blind</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩂟</hannom>
+        <ngucanh>sương mù, mây mù, mù mịt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mist, nebulosity, pitch dark</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mùa</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>务</hannom>
+        <ngucanh>mùa vụ, mùa màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>crop, harvest</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>務</hannom>
+        <ngucanh>mùa vụ, mùa màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>crop, harvest</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫯊</hannom>
+        <ngucanh>(vụ mùa)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>crop, harvest</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mùi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>味</hannom>
+        <ngucanh>mùi thơm</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>fragrance, aroma</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>未</hannom>
+        <ngucanh>giờ mùi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>8th of 12 terrestrial branches “địa chi”, used to mark time; hour of the goat, (one of 12 hours in a day)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mùng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>幪</hannom>
+        <ngucanh>mùng màn, mùng mền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mosquito-net</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>曚</hannom>
+        <ngucanh>mùng một</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>the first day of month</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦆟</hannom>
+        <ngucanh>mùng màn, mùng mền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mosquito-net</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>múa</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>務</hannom>
+        <ngucanh>múa may</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to saw the air</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪮍</hannom>
+        <ngucanh>múa may</ngucanh>
+        <nguon>tdcndg</nguon>
+        <phienam>to saw the air</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢱓</hannom>
+        <ngucanh>múa may</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to saw the air</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢱖</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>múc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢪷</hannom>
+        <ngucanh>múc nước</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to scoop water</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>múi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>梅</hannom>
+        <ngucanh>múi bưởi, múi cam, múi quýt, từng múi một</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>segments of pomelo, orange, mandarin</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤗆</hannom>
+        <ngucanh>múi bưởi, múi cam, múi quýt, từng múi một</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>segments of pomelo, orange, mandarin</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mút</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰃨</hannom>
+        <ngucanh>mút kẹo, mút kem</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to suck sweets, to suck ice-cream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡃙</hannom>
+        <ngucanh>mút kẹo, mút kem</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to suck sweets, to suck ice-cream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嚜</hannom>
+        <ngucanh>mút kẹo, mút kem</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to suck sweets, to suck ice-cream</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>măng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𣒣</hannom>
+        <ngucanh>măng tre</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bamboo shoots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>笀</hannom>
+        <ngucanh>măng tre, mãng trúc, măng non</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bamboo shoots, young shoots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥭎</hannom>
+        <ngucanh>măng tre, mãng trúc, măng non</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bamboo shoots, young shoots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥭶</hannom>
+        <ngucanh>măng tre, mãng trúc, măng non</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bamboo shoots, young shoots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬕼</hannom>
+        <ngucanh>măng tre, mãng trúc, măng non</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bamboo shoots, young shoots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦀴</hannom>
+        <ngucanh>cây măng cụt</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>mangosteen</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mũi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰀼</hannom>
+        <ngucanh>mũi nhọn, mũi dao, mũi mác</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>spearhead, point of a knife, point of a scimitar</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㙁</hannom>
+        <ngucanh>mũi Cà mau, mũi Né</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>place-name</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鋂</hannom>
+        <ngucanh>mũi nhọn, mũi dao, mũi mác</ngucanh>
+        <nguon>vvk_tdcn</nguon>
+        <phienam>spearhead, point of a knife, point of a scimitar</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鎇</hannom>
+        <ngucanh>mũi nhọn, mũi dao, mũi mác</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>spearhead, point of a knife, point of a scimitar</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mơ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢠩</hannom>
+        <ngucanh>mơ màng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dream, be a dreamer</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣊍</hannom>
+        <ngucanh>sáng tinh mơ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>early morning</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣙪</hannom>
+        <ngucanh>trái mơ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>apricot</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤎎</hannom>
+        <ngucanh>sáng tinh mơ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>early morning</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥊚</hannom>
+        <ngucanh>mơ màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dream, be a dreamer</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>糢</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>𧫼</hannom>
+        <ngucanh>nói mơ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>speak in dreaming</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mơn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󲈣</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>󰆸</hannom>
+        <ngucanh>mơn trớn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to fondle, to caress</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>暪</hannom>
+        <ngucanh>mơn trớn; mơn mởn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to fondle, to caress; young and fresh</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞞</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>deceive, lie; eyes half-closed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>緍</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>variant of 緡 U+7DE1, a fishing-line; cord; string of coins; a paper or straw string</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mưa</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>湄</hannom>
+        <ngucanh>mưa gió; mây mưa</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>rain and wind; cloud and rain (sexual pleasure)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mưng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冥</hannom>
+        <ngucanh>mưng sáng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>in the early morning</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤶼</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mưu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>牟</hannom>
+        <ngucanh>mưu thủ bạo lợi (tìm lợi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to seek for advantages</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mươi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪜚</hannom>
+        <ngucanh>sương giá</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>frost</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠦩</hannom>
+        <ngucanh>đôi mươi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>twenty years old</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mương</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𱦡</hannom>
+        <ngucanh>mương nước</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>irrigation canal</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤃞</hannom>
+        <ngucanh>mương nước</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>irrigation canal</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mướn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>僈</hannom>
+        <ngucanh>thuê mướn, làm mướn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to employ, to go into somebody's service</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠼦</hannom>
+        <ngucanh>mướn người</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to hire people</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫹗</hannom>
+        <ngucanh>thuê mướn, làm mướn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to employ, to go into somebody's service</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mướp</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>柉</hannom>
+        <ngucanh>mướp đắng, trái mướp</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bitter melon, loopah</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤝑</hannom>
+        <ngucanh>mèo mướp</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cat having grey fur, or sometime having black fur</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬎣</hannom>
+        <ngucanh>mướp đắng, trái mướp</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bitter melon, loopah</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈥</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mười</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>迈</hannom>
+        <ngucanh>mười hai, mười bạ..</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>twelve, thirteen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨑮</hannom>
+        <ngucanh>số mười</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>ten</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨒒</hannom>
+        <ngucanh>số mười</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>ten</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mường</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠴏</hannom>
+        <ngucanh>mường tượng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>remember vaguely; imagine, picture, fancy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡙧</hannom>
+        <ngucanh>dân tộc Mường</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>Mường ethnic minority</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>忙</hannom>
+        <ngucanh>mường tượng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>remember vaguely; imagine, picture, fancy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>恾</hannom>
+        <ngucanh>mường tượng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>remember vaguely; imagine, picture, fancy</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mưỡu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>庙</hannom>
+        <ngucanh>mưỡu (cái miếu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>temple; shrine; joss - house</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>廟</hannom>
+        <ngucanh>mưỡu (cái miếu)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>(K) ancestral temple, shrine; imperial court</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mượn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠼦</hannom>
+        <ngucanh>vay mượn, mượn tiền</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to borrow, to loan money</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mượt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>末</hannom>
+        <ngucanh>óng mượt, mượt mà, tóc mượt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>shininng, smooth (smooth hair)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>嗎</hannom>
+        <ngucanh>lăng mạ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to revile</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣟭</hannom>
+        <ngucanh>cây mạ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>rice seedling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥡗</hannom>
+        <ngucanh>lúa mạ, mộng mạ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rice seedling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥢂</hannom>
+        <ngucanh>lúa mạ, mộng mạ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>rice seedling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱶬</hannom>
+        <ngucanh>lúa mạ, mống mạ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rice seedling</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>罵</hannom>
+        <ngucanh>nhục mạ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>insult, abuse, defame, revile</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鎷</hannom>
+        <ngucanh>mạ vàng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>gold-plated</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨬈</hannom>
+        <ngucanh>mạ vàng, mạ bạc</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>silver-plated, gold-plated</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>幕</hannom>
+        <ngucanh>khai mạc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to raise the curtain; to open</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh>khuôn mẫu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>model, pattern</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>漠</hannom>
+        <ngucanh>sa mạc</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>sandy desert, desert</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瘼</hannom>
+        <ngucanh>dân mạc (người trong nước đau khổ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>people in the same nation suffer great misery</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>莫</hannom>
+        <ngucanh>quân mạc tiếu (ngài chớ cười); mạc như (sao bằng)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>never laugh others; cannot compare with</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>貘</hannom>
+        <ngucanh>con báo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>panther</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạch</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>眽</hannom>
+        <ngucanh>nhìn một mạch (nhìn chằm chằm)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to look fixedly at</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>脉</hannom>
+        <ngucanh>mạch máu; mạch nguồn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blood vessel; subterranean sheet of water</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>脈</hannom>
+        <ngucanh>mạch máu; mạch nguồn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blood vessel; subterranean sheet of water</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蓦</hannom>
+        <ngucanh>mạch địa, mạch nhiên (không ngờ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>geography;  unexpected, accidental</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>衇</hannom>
+        <ngucanh>mạch máu; động mạch, tĩnh mạch</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blood vessel;artery; vein</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>覔</hannom>
+        <ngucanh>thọc mạch (tìm dò)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to investigate, probe</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>覓</hannom>
+        <ngucanh>thọc mạch (tìm dò)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to investigate, probe</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>貊</hannom>
+        <ngucanh>Đan mạch</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>Denmark</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>陌</hannom>
+        <ngucanh>mạch đường, đi từng mạch</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>road route, at one go, at a stretch</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>霡</hannom>
+        <ngucanh>mưa phùn, mưa bụi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a drizzling rain; a fine rain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>驀</hannom>
+        <ngucanh>mạch địa, mạch nhiên (không ngờ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>geography;  unexpected, accidental</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mại</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>劢</hannom>
+        <ngucanh>mại tiến (bước qua)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to step over, to stride across / over</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>勱</hannom>
+        <ngucanh>mại (gắng sức)</ngucanh>
+        <nguon>tvc_tdhv</nguon>
+        <phienam>make every effort</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>卖</hannom>
+        <ngucanh>thương mại; mại quốc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>trade, to betray one's country</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰎍</hannom>
+        <ngucanh>mắt có mại (bệnh màng mọc ở khoé mắt)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cataract, film covering the corner of the eye</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>萬</hannom>
+        <ngucanh>vạn (10 nghìn)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ten thousand</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蠆</hannom>
+        <ngucanh>cá mại (tép mại)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tiny shirmp</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>賣</hannom>
+        <ngucanh>thương mại</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>trade</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>迈</hannom>
+        <ngucanh>mại tiến (bước qua)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to step over, to stride across/over</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>偭</hannom>
+        <ngucanh>mạn quy việt củ (cử động trái phép)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>illegal movement</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>僈</hannom>
+        <ngucanh>mạn quy việt củ (cử động trái phép)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>illegal movement</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>墁</hannom>
+        <ngucanh>mạn tường (quét vôi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>white - wash</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>嫚</hannom>
+        <ngucanh>khinh mạn, mạn phép</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ve proud and impertiment toward one's superiors, take the liberty</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>幔</hannom>
+        <ngucanh>mạn trướng (mành rủ)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>bamboo screen</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>慢</hannom>
+        <ngucanh>mạn mạn (dần dần); mạn thuyết (nói chậm lại); khinh mạn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>gradually, little by little; speak slowly;</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>漫</hannom>
+        <ngucanh>mạn ngược; mạn xuôi</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>mountain area; down the river</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫇞</hannom>
+        <ngucanh>mạn thuyền</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>side of a boat</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠇮</hannom>
+        <ngucanh>bản mạng, mạng người</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>one's fate, human life</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>命</hannom>
+        <ngucanh>mạng người</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>human life</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦀴</hannom>
+        <ngucanh>mạng nhện</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>spider web, cobweb</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạnh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󱉓</hannom>
+        <ngucanh>sức mạnh</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>power, strength</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>命</hannom>
+        <ngucanh>bản mạnh</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>one's fate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>孟</hannom>
+        <ngucanh>mạnh khoẻ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>healthy, athletic</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạo</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冒</hannom>
+        <ngucanh>mạo hiểm; mạo danh, mạo phạm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to adventure; assume another person's name, to profane</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媢</hannom>
+        <ngucanh>mạo tật (ghen ghét)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to envy, to begrudge</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>帽</hannom>
+        <ngucanh>mũ mạo</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>caps</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瑁</hannom>
+        <ngucanh>đại mạo (con đồi mồi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>tortoise-shell</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>皃</hannom>
+        <ngucanh>tướng mạo, đạo mạo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>appearance, be stately</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>眊</hannom>
+        <ngucanh>mắt lèm nhèm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>poor eyesight</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mạt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>抹</hannom>
+        <ngucanh>mạt tường (trát hồ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to plaster mortar</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>末</hannom>
+        <ngucanh>mạt kiếp</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>the end of one's life</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>沫</hannom>
+        <ngucanh>bạch mạt (bọt trắng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>white foams</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>秣</hannom>
+        <ngucanh>mạt (rơm cỏ cho cho loài vật ăn)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>louse of poultry</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mải</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰷭</hannom>
+        <ngucanh>mải miết, mải mê</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>absorbed (in)</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬏽</hannom>
+        <ngucanh>mải miết, mải mê</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>absorbed (in)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mảng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠻵</hannom>
+        <ngucanh>mảng nghe</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>hear</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>皿</hannom>
+        <ngucanh>mảng quên</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>forget</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䁳</hannom>
+        <ngucanh>mảng vui</ngucanh>
+        <nguon>ty_tdcn</nguon>
+        <phienam>be ecstatic</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥮎</hannom>
+        <ngucanh>bè mảng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>raft</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈘</hannom>
+        <ngucanh>mảng tin</ngucanh>
+        <nguon>ty_tdcn</nguon>
+        <phienam>hear news</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mảnh</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰌹</hannom>
+        <ngucanh>mảnh ván, mảnh giấy</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a piece of board, piece of paper</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤗖</hannom>
+        <ngucanh>mảnh trăng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a moon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>皿</hannom>
+        <ngucanh>mảnh đất, mảnh vỡ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>a piece of land; debris</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥕊</hannom>
+        <ngucanh>mảnh sành</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>glazed terra-cotta</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mảy</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡮔</hannom>
+        <ngucanh>mảy may</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a little/wee bit of</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮨</hannom>
+        <ngucanh>mảy may</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a hint of</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mấn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢄯</hannom>
+        <ngucanh>mũ mấn (đồ tang)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mourning</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>緍</hannom>
+        <ngucanh>mũ mấn (đồ tang)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mourning</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔰</hannom>
+        <ngucanh>mũ mấn (đồ tang)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>mourning</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mấp</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>乏</hannom>
+        <ngucanh>mấp máy</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>move one's lips</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠸾</hannom>
+        <ngucanh>mấp máy</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>move one's lips</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mất</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠅐</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠅎</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠅒</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠅍</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠅼</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡘮</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󱍋</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>密</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>末</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬆞</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬇮</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪶟</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>秩</hannom>
+        <ngucanh>mất mát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>losses</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mấy</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫣿</hannom>
+        <ngucanh>mấy khi, mấy bữa, mấy lúc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rarely, seldom, infrequently</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>免</hannom>
+        <ngucanh>tôi mấy anh</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>spare; excuse from; evade</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>某</hannom>
+        <ngucanh>mấy khi, mấy bữa, mấy lúc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rarely, seldom, infrequently</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱥯</hannom>
+        <ngucanh>mấy khi, mấy bữa, mấy lúc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rarely, seldom, infrequently</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mầm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𣙺</hannom>
+        <ngucanh>nảy mầm</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>sprout, germinate, bud, shoot</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪴉</hannom>
+        <ngucanh>nảy mầm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sprout, germinate, bud</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mần</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪡯</hannom>
+        <ngucanh>(hình tròn; trọn vẹn)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>round, circular; whole, integral</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󱋪</hannom>
+        <ngucanh>(hình tròn; trọn vẹn)</ngucanh>
+        <nguon>gpvhvn</nguon>
+        <phienam>circle; whole</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摱</hannom>
+        <ngucanh>mần mò; mần việc; tần mần</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>search; work; touch out of curiousity</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>暋</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>strong, robust, tough</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>珉</hannom>
+        <ngucanh>mần mò; mần việc; tần mần</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>search; work; touch out of curiousity</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>琘</hannom>
+        <ngucanh>mần mò; mần việc; tần mần</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>search; work; touch out of curiousity</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mầu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>侔</hannom>
+        <ngucanh>mầu nhiệm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>magic, wonder working, miraculous</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẩn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢠨</hannom>
+        <ngucanh>mê mẩn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be bewitched, charmed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>敏</hannom>
+        <ngucanh>mê mẩn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>be bewitched, charmed</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẩy</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪹏</hannom>
+        <ngucanh>(cháy)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>to burn, to blaze</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦝺</hannom>
+        <ngucanh>mẩy da mẩy thịt (béo tốt)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>plump and healthy</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẫn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>悯</hannom>
+        <ngucanh>ưu thời mẫn thế</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>pity, sympathize with, grieve for</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>愍</hannom>
+        <ngucanh>cần mẫn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>industrious and clever</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>憫</hannom>
+        <ngucanh>ưu thời mẫn thế</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>pity, sympathize with, grieve for</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>敏</hannom>
+        <ngucanh>mẫn cán</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>diligent, painstaking</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẫu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>亩</hannom>
+        <ngucanh>mẫu ruộng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>Chinese land measure; fields</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>卯</hannom>
+        <ngucanh>mẫu mực</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>model, example, paragon, epitome</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>姆</hannom>
+        <ngucanh>mẫu giáo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>motherly instruction</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>拇</hannom>
+        <ngucanh>ngón mấu (ngón tay (chân) cái)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>big toe, big finger</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>母</hannom>
+        <ngucanh>tình mẫu tử</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>mother's love, maternal love</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>牡</hannom>
+        <ngucanh>cây mẫu đơn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>peony</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mập</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>乏</hannom>
+        <ngucanh>béo mập</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>stout, plump</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈜</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>𥄫</hannom>
+        <ngucanh>mập mờ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dim, loose, figgy, vague</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䏜</hannom>
+        <ngucanh>béo mập</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>stout, plump</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mật</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>宓</hannom>
+        <ngucanh>bí mật</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>subterranean, secret, clandestine, underground</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>密</hannom>
+        <ngucanh>bí mật</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>subterranean, secret, clandestine, underground</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬖵</hannom>
+        <ngucanh>mật ngọt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>honey</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦟽</hannom>
+        <ngucanh>gan mật</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>liver</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦢉</hannom>
+        <ngucanh>mật gấu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bear gall</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蜜</hannom>
+        <ngucanh>mật ong</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>honey</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mậu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冇</hannom>
+        <ngucanh>mậu (không có)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>(Cant.) have not</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>懋</hannom>
+        <ngucanh>mậu (ân cần sốt sắng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>solicitous, thoughtful;zealous, whole-hearted</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>戊</hannom>
+        <ngucanh>giáp, ất, bính, đinh, mậu, kỉ, canh, tân, nhâm, quý (thập can)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cycle of twelve years, the second circle of Heaven, the third Heaven's Stem, the fourth Heaven's stem,the fifth Heaven's stem</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>楙</hannom>
+        <ngucanh>mậu (tươi tốt)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>verdant, green, fresh, fine</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞀</hannom>
+        <ngucanh>mậu (xem không rõ; tinh thần hoảng loạn)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>unclear looking, hysterical spirit</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>繆</hannom>
+        <ngucanh>trù mậu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>wind around, bind; prepare</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>缪</hannom>
+        <ngucanh>trù mậu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>wind around, bind; prepare</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>茂</hannom>
+        <ngucanh>mậu tài</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>thick, lush, dense; talented</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>荗</hannom>
+        <ngucanh>mậu tài</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>thick, lush, dense; talented</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>袤</hannom>
+        <ngucanh>quảng mậu thiên lí (cảnh đất đai dài rộng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>longitude, lengthwise; length</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>謬</hannom>
+        <ngucanh>mậu ngộ, mậu luận (sai lầm)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>erroneous, wrong, mistaken</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>谬</hannom>
+        <ngucanh>mậu ngộ, mậu luận (sai lầm)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>erroneous, wrong, mistaken</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mắc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰄏</hannom>
+        <ngucanh>khúc mắc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>hitch, difficulty</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱡅</hannom>
+        <ngucanh>mắc treo; mắc cỡ (xấu hổ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to hang up, to suspend; to be ashamed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢹇</hannom>
+        <ngucanh>mắc bẫy, mắc nạn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to fall into a trap; to fall into calamity</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱤒</hannom>
+        <ngucanh>thắc mắc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to wonder, to worry</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>縸</hannom>
+        <ngucanh>mắc cửi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be crisscross</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦄿</hannom>
+        <ngucanh>vướng mắc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to meet with difficulties</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫄓</hannom>
+        <ngucanh>mắc, mắc kẹt, mắc áo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expensive, be caught, to hang up</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mắm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰖻</hannom>
+        <ngucanh>mắm tương</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>thick soy sauce</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫑾</hannom>
+        <ngucanh>mắm tương</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>thick soy sauce</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩻐</hannom>
+        <ngucanh>mắm muối, nước mắm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>fish sauce and salt, fish sauce</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪊅</hannom>
+        <ngucanh>mắm muối, nước mắm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>fish sauce and salt, fish sauce</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mắn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪪉</hannom>
+        <ngucanh>may mắn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>lucky, fortunate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>慜</hannom>
+        <ngucanh>may mắn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>lucky</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>慢</hannom>
+        <ngucanh>mau mắn</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>lucky, fortunate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈚</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mắng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>嗎</hannom>
+        <ngucanh>mắng nhiếc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to heap insults on somebody</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠻵</hannom>
+        <ngucanh>la mắng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to scold</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mắt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𬑉</hannom>
+        <ngucanh>con mắt; tai mắt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>eyes; spy, informer</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>眜</hannom>
+        <ngucanh>con mắt; tai mắt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>eyes; spy, informer</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mằn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫽺</hannom>
+        <ngucanh>mằn chi (mần chi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>what to do</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>摱</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>(Cant.) to climb, hold on to, cling to; to pull the trigger on a gun</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>漫</hannom>
+        <ngucanh>mằn mặn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>salty</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẳn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>漫</hannom>
+        <ngucanh>tí mẳn</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>overflow of water; spreading</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䊟</hannom>
+        <ngucanh>tấm mẳn (gạo nát)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>crushed</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mặc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>嚜</hannom>
+        <ngucanh>mặc kệ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>not to pay attention to, to ignore</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬉵</hannom>
+        <ngucanh>trầm mặc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>thoughtful, pensive</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>黙</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>䘃</hannom>
+        <ngucanh>cá mực</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>cuttlefish</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>袙</hannom>
+        <ngucanh>mặc áo</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to dress</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󱀰</hannom>
+        <ngucanh>mặc áo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dress</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬡶</hannom>
+        <ngucanh>mặc áo; mặc kệ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to dress; not to pay attention to, to ignore</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𧞾</hannom>
+        <ngucanh>mặc áo, may mặc</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to dress; clothing, garment</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mặn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠼦</hannom>
+        <ngucanh>mặn mà</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>passionate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>墁</hannom>
+        <ngucanh>đất mặn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>alkaline soil</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>漫</hannom>
+        <ngucanh>nước mặn</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>salt water</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨢥</hannom>
+        <ngucanh>vị mặn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>salt, salty</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪉾</hannom>
+        <ngucanh>mặn mà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>salt, salty</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪉽</hannom>
+        <ngucanh>mặn mà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>salt, salty</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mặt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>末</hannom>
+        <ngucanh>mặt mày, bề mặt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expression, area, surface</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>牧</hannom>
+        <ngucanh>mặt mày, bề mặt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expression, area, surface</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫆴</hannom>
+        <ngucanh>mặt trăng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>moon</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬰠</hannom>
+        <ngucanh>mặt mày, bề mặt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expression, area, surface</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩈘</hannom>
+        <ngucanh>mặt mày, bề mặt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>expression, area, surface</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰘚</hannom>
+        <ngucanh>mặt mày, bề mặt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>expression, area, surface</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẹo</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冒</hannom>
+        <ngucanh>mẹo mực</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ruse, expedient, trick, tip</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>卯</hannom>
+        <ngucanh>giở mẹo (giờ mão)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>from 5am to 7am</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠶦</hannom>
+        <ngucanh>mẹo mực</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>ruse, expedient, trick, tip</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẹt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𥬎</hannom>
+        <ngucanh>cái mẹt (đồ làm bằng tre trúc)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>flat winnowing basket</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẻ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󲈝</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>󰀮</hannom>
+        <ngucanh>mát mẻ; mới mẻ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cool; fresh</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰀴</hannom>
+        <ngucanh>mát mẻ; mới mẻ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>cool; fresh</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠝫</hannom>
+        <ngucanh>sứt mẻ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>batch, catch, take</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠸍</hannom>
+        <ngucanh>một mẻ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>be in for</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡎤</hannom>
+        <ngucanh>một mẻ lưới</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>draught, haul</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫰤</hannom>
+        <ngucanh>mẻ bioóc (Là Mẹ Hoa)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>𢱒</hannom>
+        <ngucanh>đánh cho một mẻ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to beat, to strike, to fight, to combat</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>渼</hannom>
+        <ngucanh>mát mẻ (tiếng đệm)</ngucanh>
+        <nguon>vvk_tdcn</nguon>
+        <phienam>cool, fresh</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥖺</hannom>
+        <ngucanh>sứt mẻ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>chipped</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥻙</hannom>
+        <ngucanh>mẻ (giấm bỗng)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to jag</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mẽ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠸍</hannom>
+        <ngucanh>mùi mẽ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>taste (of food)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mến</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>免</hannom>
+        <ngucanh>yêu mến</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to have fondness for somebody</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>勉</hannom>
+        <ngucanh>yêu mến</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to have fondness for somebody</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>唤</hannom>
+        <ngucanh>yêu mến</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to have fondness for somebody</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢗔</hannom>
+        <ngucanh>yêu mến</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to have fondness for somebody</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>悗</hannom>
+        <ngucanh>mến yêu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>affectionate</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mếu</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>喵</hannom>
+        <ngucanh>khóc mếu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>weep, cry, burst into tears</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰂬</hannom>
+        <ngucanh>khóc mếu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>weep, cry, burst into tears</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𱕜</hannom>
+        <ngucanh>khóc mếu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>weep, cry, burst into tears</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫬣</hannom>
+        <ngucanh>khóc mếu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>weep, cry, burst into tears</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mề</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𣎊</hannom>
+        <ngucanh>mề gà, mề vịt, lười chẩy mề</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>gizzard, chicken gizzard; very lazy</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mềm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𣟮</hannom>
+        <ngucanh>mềm mại</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>soft, flaccid, tender, flexible</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣠳</hannom>
+        <ngucanh>mềm mại</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>soft, flaccid, tender, flexible</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𥎁</hannom>
+        <ngucanh>mềm yếu</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>weak, feeble</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mền</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢅧</hannom>
+        <ngucanh>cái mền, chăn mền</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blanket</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>綿</hannom>
+        <ngucanh>mền bông</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>padded cotton blanket</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔫</hannom>
+        <ngucanh>mền bông</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>padded cotton blanket</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔬</hannom>
+        <ngucanh>mền bông</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>padded cotton blanket</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mễ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>咪</hannom>
+        <ngucanh>lễ mễ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to carry something with difficulty</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>敉</hannom>
+        <ngucanh/>
+        <nguon>gdhn</nguon>
+        <phienam>pacify, soothe, stabilize</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>眯</hannom>
+        <ngucanh>mễ (mắt mở hé)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to open eyes slightly</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mệt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>末</hannom>
+        <ngucanh>mệt mỏi, chết mệt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be tired, to be over head and ears in love, to be captivated</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>疲</hannom>
+        <ngucanh>mệt mỏi,chết mệt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be tired, to be over head and ears in love, to be captivated</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬏱</hannom>
+        <ngucanh>mệt mỏi,chết mệt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be tired, to be over head and ears in love, to be captivated</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬏻</hannom>
+        <ngucanh>mệt mỏi,chết mệt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be tired, to be over head and ears in love, to be captivated</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰎎</hannom>
+        <ngucanh>mệt mỏi,chết mệt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be tired, to be over head and ears in love, to be captivated</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤻻</hannom>
+        <ngucanh>mệt mỏi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to be tired</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>累</hannom>
+        <ngucanh>mệt mỏi,chết mệt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be tired, to be over head and ears in love, to be captivated</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỉa</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠸍</hannom>
+        <ngucanh>mỉa mai</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>ironical</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỉm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠲶</hannom>
+        <ngucanh>mỉm cười</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to smile</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠽊</hannom>
+        <ngucanh>mỉm cười</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to smile</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mị</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>媚</hannom>
+        <ngucanh>mị nương; mị dân</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>demagogic</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>寐</hannom>
+        <ngucanh>mộng mị</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>sleep; be asleep</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>猕</hannom>
+        <ngucanh>mị hầu (con khỉ cái)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>macacus monkey</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>獼</hannom>
+        <ngucanh>mị hầu (con khỉ cái)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>macacus monkey</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>靡</hannom>
+        <ngucanh>mộng mị</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>鬽</hannom>
+        <ngucanh>si mị hỉ (ma quỷ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>ghosts and devil</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mịn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>冕</hannom>
+        <ngucanh>mịn màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>as smooth as silk/velvet/a baby's bottom</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mịt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󱔚</hannom>
+        <ngucanh>mờ mịt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>uncertain; gloomy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣋻</hannom>
+        <ngucanh>mờ mịt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>uncertain, gloomy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰊳</hannom>
+        <ngucanh>mù mịt; tối mịt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dark, sombre, uncertain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>櫗</hannom>
+        <ngucanh>mù mịt; tối mịt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dark, sombre, uncertain</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䁾</hannom>
+        <ngucanh>mờ mịt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>uncertain; gloomy</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mọc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠚐</hannom>
+        <ngucanh>mọc lên</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to shoot, to grow, to rise</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㕲</hannom>
+        <ngucanh>mời mọc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>invite with warmth, invite with insistence</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>木</hannom>
+        <ngucanh>mọc lên</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to shoot, to grow, to rise</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mọi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>每</hannom>
+        <ngucanh>mọi người</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>everybody</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤞦</hannom>
+        <ngucanh>người mọi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>ethnic minorities</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mọn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡭜</hannom>
+        <ngucanh>lẽ mọn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a small, humble present</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰅋</hannom>
+        <ngucanh>nhỏ mọn, hèn mọn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>be humble, low</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮆</hannom>
+        <ngucanh>nhỏ mọn, hèn mọn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be humble, low</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮉</hannom>
+        <ngucanh>nhỏ mọn, hèn mọn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be humble, low</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮬</hannom>
+        <ngucanh>nhỏ mọn, hèn mọn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be humble, low</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮮</hannom>
+        <ngucanh>nhỏ mọn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be humble</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫵈</hannom>
+        <ngucanh>nhỏ mọn, hèn mọn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>be humble, low</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㥃</hannom>
+        <ngucanh>hèn mọn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>low situation</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mọng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>夣</hannom>
+        <ngucanh>mọng nước; chín mọng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>succulent water; succulent grapes</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh>mọng nước; chín mọng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>succulent water; succulent grapes</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mọt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>模</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>model, standard, pattern; copy</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỏ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>㖼</hannom>
+        <ngucanh>mỏ chim, mắng mỏ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>birds' beak, to reprove</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡎡</hannom>
+        <ngucanh>mỏ vàng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>gold-mine</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𪤘</hannom>
+        <ngucanh>mỏ (cái nồi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>pot</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡮘</hannom>
+        <ngucanh>trẻ mỏ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>children</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫄼</hannom>
+        <ngucanh>(cái nồi)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>pot (for cooking)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỏi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢵹</hannom>
+        <ngucanh>mỏi tay, mỏi chân</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>get tired hand, leg</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỏm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󰄉</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỏng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡮹</hannom>
+        <ngucanh>mong mỏng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>thin, a little thin, thinly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤘂</hannom>
+        <ngucanh>mỏng manh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>very thin</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤘁</hannom>
+        <ngucanh>mỏng dày</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>thin and thick</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤺯</hannom>
+        <ngucanh>phận mỏng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>hard fate</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈟</hannom>
+        <ngucanh>mỏng tai</ngucanh>
+        <nguon>ty_tdcn</nguon>
+        <phienam>sharp ears</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mốc</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𡉿</hannom>
+        <ngucanh>mốc giới, cắm mốc</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>landmark, to set up landmarks</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mối</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>󲈡</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>媒</hannom>
+        <ngucanh>làm mối</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>act as a matchmakers</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䋦</hannom>
+        <ngucanh>mối dây</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>end of entangled thread or string</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mống</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠓔</hannom>
+        <ngucanh>cái mống, mống đông vồng tây</ngucanh>
+        <nguon>vvk_tdcn</nguon>
+        <phienam>partial rainbow, iris to the east, rainbow to the west</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh>dóng mống</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>dream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䑅</hannom>
+        <ngucanh>mống cụt; đóng mống</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>partial rainbow; to sprout</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦴋</hannom>
+        <ngucanh>dóng mống; mống con cái</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to sprout; person/head</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬠳</hannom>
+        <ngucanh>con mống (con mòng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>gad-fly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蠓</hannom>
+        <ngucanh>con mống (con mòng)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>gad-fly</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>霓</hannom>
+        <ngucanh>mống cụt; đóng mống</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>partial rainbow; to sprout</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩆠</hannom>
+        <ngucanh>mống cụt; đóng mống</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>partial rainbow; close bud</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>靀</hannom>
+        <ngucanh>mống cụt; đóng mống</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>partial rainbow; to sprout</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mốt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𣋻</hannom>
+        <ngucanh>ngày mốt, mai mốt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>the day after tomorrow, in the future</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>没</hannom>
+        <ngucanh>mải mốt; một trăm mốt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to become absorbed; one hundred and one</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>沒</hannom>
+        <ngucanh>mải mốt; một trăm mốt</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to become absorbed; one hundred and one</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mồ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>墓</hannom>
+        <ngucanh>mồ mả</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>graves, tombs</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫮲</hannom>
+        <ngucanh>mồ mả</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>graves, tombs</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>慕</hannom>
+        <ngucanh>mồ côi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be orphaned</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>戊</hannom>
+        <ngucanh>mồ côi</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to be orphaned</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𣳡</hannom>
+        <ngucanh>mồ hôi; mồ hòn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>perspiration</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤇦</hannom>
+        <ngucanh>mồ hóng</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>soot, smoke-black</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤑮</hannom>
+        <ngucanh>mồ hóng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>soot, smoke-black</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mồi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>味</hannom>
+        <ngucanh>cò mồi; mồi chài</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>decoy; entice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠶣</hannom>
+        <ngucanh>miếng mồi</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>prey, bait, bag</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>喟</hannom>
+        <ngucanh>cò mồi; mồi chài</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>decoy; entice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠻽</hannom>
+        <ngucanh>miếng mồi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>prey, bait, bag</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>媒</hannom>
+        <ngucanh>chim mồi</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>bird of prey</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>枚</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>stalk of shrub, trunk of tree</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>某</hannom>
+        <ngucanh>cò mồi; mồi chài</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>decoy; entice</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>烸</hannom>
+        <ngucanh>mồi lửa, cái mồi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>fuse, lighter, enticement</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瑁</hannom>
+        <ngucanh>đồi mồi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>tortoise-shell</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䋦</hannom>
+        <ngucanh>mồi chài</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>entice, decoy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>蝐</hannom>
+        <ngucanh>mồi câu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bait</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩛸</hannom>
+        <ngucanh>mồi câu, mồi ăn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bait, prey</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𩜫</hannom>
+        <ngucanh>mồi câu, mồi ăn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>bait, prey</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mồm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>㕨</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mồng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠖨</hannom>
+        <ngucanh>mồng gà (mào gà)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>crest, cockscomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh>mồng một</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>the first day of month</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>曚</hannom>
+        <ngucanh>mồng mười</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>the ten-day of month</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬁜</hannom>
+        <ngucanh>mồng một</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>the first day of month</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>朦</hannom>
+        <ngucanh>mồng mười</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>the ten-day of month</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mổ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>剖</hannom>
+        <ngucanh>mổ xẻ, mổ bụng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to operate (on somebody for something); to have stomach surgery</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠝼</hannom>
+        <ngucanh>mổ xẻ, mổ bụng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to operate (on somebody for something); to have stomach surgery</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỗ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>姥</hannom>
+        <ngucanh>mỗ (bà mụ)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>village midwife, midwife</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mộ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>募</hannom>
+        <ngucanh>mộ quân</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to gather army</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>墓</hannom>
+        <ngucanh>phần mộ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>grave, tomb</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>慕</hannom>
+        <ngucanh>hâm mộ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to like, to have admiration</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mộng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh>mộng mị; mộng du</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>dream; sleep-walking</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>懵</hannom>
+        <ngucanh>mộng đổng (ngu dốt)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>foolish and ignorant, silly and ignorant</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>梦</hannom>
+        <ngucanh>mộng mị; mộng du</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>dream; sleep-walking</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬄺</hannom>
+        <ngucanh>mọc mộng, mộng cửa</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>sprout, shoot, tenon of door</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰍂</hannom>
+        <ngucanh>trâu mộng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>strong and fat buffalo</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>瞢</hannom>
+        <ngucanh/>
+        <nguon>gdhn</nguon>
+        <phienam>eyesight obscured; to feel ashamed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰏶</hannom>
+        <ngucanh>lúa mọc mộng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>sprout</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䑅</hannom>
+        <ngucanh>mắt mọc mộng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>walleye</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>một</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠬠</hannom>
+        <ngucanh>một cái, một chiếc, mai một</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>piece, thing, fall (sink) into oblivion</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>殁</hannom>
+        <ngucanh>một cái, một chiếc, mai một</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>piece, thing, fall (sink) into oblivion</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>殳</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>name of old weapon; kill; rad. 79</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>没</hannom>
+        <ngucanh>một cái, một chiếc, mai một</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>piece, thing, fall (sink) into oblivion</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mớ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>嗎</hannom>
+        <ngucanh>mắc mớ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to concern</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢲫</hannom>
+        <ngucanh>từng mớ, một mớ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a bundle</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>榪</hannom>
+        <ngucanh>từng mớ, một mớ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>a bundle</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mới</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪦲</hannom>
+        <ngucanh>mới cũ, còn mới, mới đến</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>old and new, brand new, newly come</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡤓</hannom>
+        <ngucanh>mới cũ, còn mới, mới đến</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>old and new, brand new, newly come</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𡤔</hannom>
+        <ngucanh>mới cũ, còn mới, mới đến</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>old and new, brand new, newly come</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>某</hannom>
+        <ngucanh>mới cũ, còn mới, mới đến</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>old and new, brand new, newly come</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>㵋</hannom>
+        <ngucanh>mới cũ, còn mới, mới đến</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>old and new, brand new, newly come</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬔫</hannom>
+        <ngucanh>năm mới</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>new year</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mớm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠰏</hannom>
+        <ngucanh>bú mớm, mớm sữa</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to suckle and spoon-feed, to feed milk</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠻦</hannom>
+        <ngucanh>bú mớm, mớm sữa</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to suckle and spoon-feed, to feed milk</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mớn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>滿</hannom>
+        <ngucanh>mớn nước</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>water-line</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mờ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢠩</hannom>
+        <ngucanh>khi tỏ khi mờ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>both bright and dark</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󲈢</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>𤎎</hannom>
+        <ngucanh>mờ mịt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>dark</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mời</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠶆</hannom>
+        <ngucanh>mời khách</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to invite  guests</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𠸼</hannom>
+        <ngucanh>mời khách</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to invite  guests</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰃱</hannom>
+        <ngucanh>mời mọc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>invite with warmth, invite with insistence</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫬱</hannom>
+        <ngucanh>mời mọc</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>invite with warmth, invite with insistence</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mở</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𢱒</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam/>
+      </phanloai>
+      <phanloai>
+        <hannom>𢲫</hannom>
+        <ngucanh>mở ra</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to open it out</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𬮎</hannom>
+        <ngucanh>mở cửa, mở ra</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to open door, to open it out</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰘆</hannom>
+        <ngucanh>mở cửa, mở ra</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to open door, to open it out</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨷑</hannom>
+        <ngucanh>mở hội</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>hold a festival</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𲉇</hannom>
+        <ngucanh>mở cửa, mở ra</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to open door, to open it out</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𨸈</hannom>
+        <ngucanh>mở cửa, mở ra</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to open door, to open it out</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>馬</hannom>
+        <ngucanh>mở cửa, mở ra</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to open door, to open it out</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỡ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𦟐</hannom>
+        <ngucanh>thịt mỡ; mỡ màng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>fat meat; fat (land)</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mợ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>媽</hannom>
+        <ngucanh>cậu mợ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>uncle and aunt</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mụ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𠋦</hannom>
+        <ngucanh>bà mụ; mụ già</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>village midwife, midwife; old hag</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>妈</hannom>
+        <ngucanh>bà mụ; mụ già</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>village midwife, midwife; old hag</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>姥</hannom>
+        <ngucanh>bà mụ; mụ già</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>village midwife, midwife; old hag</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mục</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>木</hannom>
+        <ngucanh>mục ra</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>rotten, decaying, decayed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𭬙</hannom>
+        <ngucanh>mục nát</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>rotten, decayed</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>牧</hannom>
+        <ngucanh>mục súc, mục đồng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>grazing animals, pastor</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>目</hannom>
+        <ngucanh>mục kích, mục sở thị</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>witness, be an eye witness of</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>睦</hannom>
+        <ngucanh>hoà mục</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>harmonious, united</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>穆</hannom>
+        <ngucanh>hoà mục</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>harmonious, united</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>苜</hannom>
+        <ngucanh>mục tú (cỏ nuôi gia súc)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>grass to raise cattle</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mụn</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>夢</hannom>
+        <ngucanh/>
+        <nguon>ty_tdcn</nguon>
+        <phienam>dream</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>悶</hannom>
+        <ngucanh>mụn bánh; mụn con</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>a small piece of cake; few children</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰎇</hannom>
+        <ngucanh>mụn nhọt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>pimple, furuncle</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤺯</hannom>
+        <ngucanh>mụn nhọt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>pimple, furuncle, boil</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𦝋</hannom>
+        <ngucanh>mụn nhọt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>pimple, furuncle, boil</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mụt</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𬏱</hannom>
+        <ngucanh>mọc mụt (mụn nhọt)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to have spots, to break out in pimples/spots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𤶽</hannom>
+        <ngucanh>mụt nhọt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to have spots, to break out in pimples/spots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>目</hannom>
+        <ngucanh>mọc mụt</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>to have spots, to break out in pimples/spots</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𫂀</hannom>
+        <ngucanh>mụt măng (măng mới nhú)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>bud of bamboo shoot</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mủ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>湈</hannom>
+        <ngucanh>máu mủ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>blood</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>󰔧</hannom>
+        <ngucanh>máu mủ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>blood</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mủi</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>悔</hannom>
+        <ngucanh>mủi lòng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>to be moved to pity</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢙽</hannom>
+        <ngucanh>mủi lòng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>to be moved to pity</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mừng</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𪢣</hannom>
+        <ngucanh>vui mừng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>be happy</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>𢜏</hannom>
+        <ngucanh>vui mừng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>be happy</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mực</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>𫡭</hannom>
+        <ngucanh>(mực thước)</ngucanh>
+        <nguon>tdcnt</nguon>
+        <phienam>exemplary model</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>䘃</hannom>
+        <ngucanh>cá mực</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>cuttlefish</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>mỹ</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>美</hannom>
+        <ngucanh>hoa mĩ, tuyệt mĩ; mĩ mãn</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>beautiful, pretty; pleasing</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+</dictionary>

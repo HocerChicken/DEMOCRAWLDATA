@@ -21,7 +21,6 @@ def crawl_data(word, base_url='https://chunom.net/Tu-Dien.html'):
 
         rows = soup.select('.table-responsive tr')
         result = [[cell.get_text(strip=True) for cell in row.select('td')] for row in rows]
-        print(result)
         return result
     except Exception as e:
         print(f"An error occurred during crawling: {e}")

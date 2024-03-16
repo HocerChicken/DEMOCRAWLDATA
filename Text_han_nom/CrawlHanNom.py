@@ -9,7 +9,7 @@ def get_request(url, payload):
         with requests.Session() as session:
             r = session.get(url + payload)  
             r.raise_for_status()
-            return r.text
+            return r.content
     except requests.RequestException as e:
         print(f"An error occurred during the request: {e}")
 
@@ -19,7 +19,7 @@ def crawl_data(word, base_url='https://hvdic.thivien.net/hv/'):
         soup = BeautifulSoup(page, 'html.parser')
         
         rows = soup.find_all(class_='hvres')
-        return rows.text
+        return rows
     except Exception as e:
         print(f"An error occurred during crawling: {e}")
 

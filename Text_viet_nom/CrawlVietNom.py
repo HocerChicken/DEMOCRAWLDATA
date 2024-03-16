@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement
 from xml.dom import minidom
+import unicodedata
 
 def post_request(url, payload):
     try:
@@ -20,10 +21,29 @@ def crawl_data(word, base_url='https://chunom.net/Tra-cuu-Han-Nom'):
         soup = BeautifulSoup(data, 'html.parser')
         
         rows = soup.find_all('tr')
-        result = [[cell.text.strip() for cell in row.find_all(['th', 'td'])] for row in rows[3: -2]]
+        result = []
+
+        tags = {
+            "nom" : [],
+            "unicode": [],
+            "boThu": [],
+        }
+        for row in rows[3: -1]:
+            td_elements = row.find_all('td')
+            if len(td_elements) >= 2:
+                font_element = td_elements[1].find('font')
+                if font_element:  
+                    result.append([cell.text.strip() for cell in row.find_all('td')])
+        
         return result
     except Exception as e:
         print(f"An error occurred during crawling: {e}")
+
+def check_unicode(chars):
+    if all(unicodedata.category(char)[0] == 'L' for char in chars):
+        return True
+    else:
+        return False
 
 def normalize(word, data, xml_root):
     if not data:
@@ -42,8 +62,11 @@ def normalize(word, data, xml_root):
             phanloai_elem = SubElement(dinhnghia_elem, "phanloai")
 
             nom_elem = SubElement(phanloai_elem, "nom")
-            nom_elem.text = line[1]  # Assuming the first element is 'nom'
+            nom_elem.text = line[1][0:1]  
 
+            unicode_elem = SubElement(phanloai_elem, "unicode")
+            unicode_elem.text = line[1][1:]
+            
             bothu_elem = SubElement(phanloai_elem, "bothu")
             bothu_elem.text = line[2]
 
@@ -70,17 +93,16 @@ def prettify(elem):
         return reparsed.toprettyxml(indent="  ")
     except Exception as e:
         print(e)
-        print(rough_string)
 
 def main():
     xml_root = Element('dictionary')
-
-    with open('text_a_filtered.txt', 'r', encoding='utf-8') as file:
+    
+    with open('merged_output.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
     process_words(data_list, xml_root) 
     pretty_xml = prettify(xml_root)
     if pretty_xml is not None:
-        with open('text_d.xml', 'w', encoding='utf-8') as xml_file:
+        with open('dictionary.xml', 'w', encoding='utf-8') as xml_file:
             xml_file.write(pretty_xml)
     else:
         print("Error")

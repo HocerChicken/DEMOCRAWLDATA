@@ -4,76 +4,124 @@
     <quocngu>a</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>丫</hannom>
+        <nom>𠲞</nom>
+        <unicode>V+20c9e</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 6</bothu>
+        <ngucanh>a dàng</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>丫</nom>
+        <unicode>U+4e2b</unicode>
+        <bothu>Bộ: cổn - 0002 Số nét: 2</bothu>
         <ngucanh>chạy a vào</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>to rush</phienam>
+        <phienam>English: forked; bifurcation Âm Bắc Kinh: YA1 ZHONG4 Âm Quảng Đông: A1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>亞</hannom>
+        <nom>亞</nom>
+        <unicode>U+4e9e</unicode>
+        <bothu>Bộ: nhị - 0007 Số nét: 6</bothu>
         <ngucanh>A ha! vui quá.</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>aha, so happy.</phienam>
+        <phienam>English: Asia; second; used as a prefix to names Âm Bắc Kinh: YA1 YA4 Âm Quảng Đông: A3 NGA3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>啊</hannom>
+        <nom>啊</nom>
+        <unicode>U+554a</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
         <ngucanh>ề à (hoạt động chậm chạp)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>to slowly act</phienam>
+        <phienam>English: exclamatory particle Âm Bắc Kinh: A5 QIANG1 Âm Quảng Đông: A1 A2 A3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>妸</hannom>
+        <nom>妸</nom>
+        <unicode>U+59b8</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 5</bothu>
         <ngucanh>Cô ả</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>a girl</phienam>
+        <phienam>English: person Âm Bắc Kinh: E1 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>婀</hannom>
+        <nom>婀</nom>
+        <unicode>U+5a40</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 8</bothu>
         <ngucanh>dáng thướt tha</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>beautiful appearance</phienam>
+        <phienam>English: be beautiful, be graceful Âm Bắc Kinh: E1 Âm Quảng Đông: O2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>桠</hannom>
+        <nom>桠</nom>
+        <unicode>U+6860</unicode>
+        <bothu>Bộ: mộc - 0075 Số nét: 6</bothu>
         <ngucanh>a (rẽ đôi, trạc cây)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>fork</phienam>
+        <phienam>English: the forking branch of a tree Âm Bắc Kinh: YA2 Âm Quảng Đông: NGA4</phienam>
       </phanloai>
       <phanloai>
-        <hannom>椏</hannom>
+        <nom>椏</nom>
+        <unicode>U+690f</unicode>
+        <bothu>Bộ: mộc - 0075 Số nét: 8</bothu>
         <ngucanh>a (rẽ đôi, trạc cây)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>fork</phienam>
+        <phienam>English: the forking branch of a tree Âm Bắc Kinh: YA1 YA2 Âm Quảng Đông: NGA4</phienam>
       </phanloai>
       <phanloai>
-        <hannom>疴</hannom>
+        <nom>疴</nom>
+        <unicode>U+75b4</unicode>
+        <bothu>Bộ: nạch - 0104 Số nét: 5</bothu>
         <ngucanh>trầm a (trầm kha: ốm nặng)</ngucanh>
-        <nguon>hvtd</nguon>
-        <phienam>seriously ill</phienam>
+        <nguon>btcn</nguon>
+        <phienam>English: illness, sickness, disease; pain Âm Bắc Kinh: KE1 Âm Quảng Đông: O1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>錒</hannom>
+        <nom>錒</nom>
+        <unicode>U+9312</unicode>
+        <bothu>Bộ: kim - 0167 Số nét: 8</bothu>
         <ngucanh>chất Actinium</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>actinium</phienam>
+        <phienam>English: actinium Âm Bắc Kinh: A1 Âm Quảng Đông: A1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>锕</hannom>
+        <nom>锕</nom>
+        <unicode>U+9515</unicode>
+        <bothu>Bộ: kim - 167S Số nét: 7</bothu>
         <ngucanh>chất Actinium</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>actinium</phienam>
+        <phienam>English: ac Âm Bắc Kinh: A1 ZHE3 Âm Quảng Đông: A1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>阿</hannom>
+        <nom>阿</nom>
+        <unicode>U+963f</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 5</bothu>
         <ngucanh>a tòng, a du</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>an additional word in personal name</phienam>
+        <phienam>English: prefix for people's names; used in transliteration Âm Bắc Kinh: A1 Âm Quảng Đông: A3 O1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>鴉</hannom>
+        <nom>鴉</nom>
+        <unicode>U+9d09</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 4</bothu>
         <ngucanh>nha tước (con quạ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>crow</phienam>
+        <phienam>English: crow, raven Âm Bắc Kinh: YA1 Âm Quảng Đông: A1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鵶</nom>
+        <unicode>U+9d76</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 8</bothu>
+        <ngucanh>ác vàng</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English:   Âm Bắc Kinh: YA1 Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鸦</nom>
+        <unicode>U+9e26</unicode>
+        <bothu>Bộ: điểu - 196S Số nét: 4</bothu>
+        <ngucanh>nha tước (con quạ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: crow Âm Bắc Kinh: YA1 Âm Quảng Đông: A1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -81,28 +129,52 @@
     <quocngu>ai</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>哀</hannom>
+        <nom>哀</nom>
+        <unicode>U+54c0</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 6</bothu>
         <ngucanh>khóc ai oán</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>plaintive lamentations</phienam>
+        <phienam>English: sad, mournful, pitiful; pity Âm Bắc Kinh: AI1 Âm Quảng Đông: OI1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>唉</hannom>
+        <nom>唉</nom>
+        <unicode>U+5509</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 7</bothu>
         <ngucanh>ai, cha mẹ ôi! (lời than thở)</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>alas!</phienam>
+        <phienam>English: alas, exclamation of surprise or pain Âm Bắc Kinh: AI1 Âm Quảng Đông: AAI1 OI1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>埃</hannom>
-        <ngucanh>ai đấỷ</ngucanh>
+        <nom>埃</nom>
+        <unicode>U+57c3</unicode>
+        <bothu>Bộ: thổ - 0032 Số nét: 7</bothu>
+        <ngucanh>ai đấy?</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>pronoun showing person</phienam>
+        <phienam>English: fine dust, dirt Âm Bắc Kinh: AI1 Âm Quảng Đông: OI1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>挨</hannom>
+        <nom>挨</nom>
+        <unicode>U+6328</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 7</bothu>
         <ngucanh>ai (đến gần)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>to come near</phienam>
+        <phienam>English: near, close by, next to, towards, against; to wait; to lean on Âm Bắc Kinh: AI1 AI2 Âm Quảng Đông: AAI1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鎄</nom>
+        <unicode>U+9384</unicode>
+        <bothu>Bộ: kim - 0167 Số nét: 9</bothu>
+        <ngucanh>ai (chất Einsteinium)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: iridium einsteinium Âm Bắc Kinh: AI1 Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>锿</nom>
+        <unicode>U+953f</unicode>
+        <bothu>Bộ: kim - 167S Số nét: 9</bothu>
+        <ngucanh>ai (chất Einsteinium)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: es Âm Bắc Kinh: AI1 Âm Quảng Đông:</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -110,34 +182,60 @@
     <quocngu>am</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>庵</hannom>
+        <nom>庵</nom>
+        <unicode>U+5eb5</unicode>
+        <bothu>Bộ: nghiễm - 0053 Số nét: 8</bothu>
         <ngucanh>am tranh (cái nhà nhỏ của người ẩn dật)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>hut where a recluse lives</phienam>
+        <phienam>English: Buddhist monastery or nunnery Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>盦</hannom>
+        <nom>盦</nom>
+        <unicode>U+76e6</unicode>
+        <bothu>Bộ: mãnh - 0108 Số nét: 11</bothu>
         <ngucanh>cái am (nồi)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>pot</phienam>
+        <phienam>English: lid of a caldron; Buddhist cloister Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>菴</hannom>
+        <nom>菴</nom>
+        <unicode>U+83f4</unicode>
+        <bothu>Bộ: thảo - 0140 Số nét: 8</bothu>
         <ngucanh>thảo am (lều nhỏ)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>small hut</phienam>
+        <phienam>English: small Buddhist monastery Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>諳</hannom>
+        <nom>諳</nom>
+        <unicode>U+8af3</unicode>
+        <bothu>Bộ: ngôn - 0149 Số nét: 9</bothu>
         <ngucanh>am hiểu (biết rõ)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>to know inside out</phienam>
+        <phienam>English: versed in, fully acquainted with Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>谙</hannom>
+        <nom>谙</nom>
+        <unicode>U+8c19</unicode>
+        <bothu>Bộ: ngôn - 149S Số nét: 9</bothu>
         <ngucanh>am hiểu (biết rõ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>to know inside out</phienam>
+        <phienam>English: versed in, fully acquainted with Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鵪</nom>
+        <unicode>U+9d6a</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 8</bothu>
+        <ngucanh>am thuần (chim cút)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: quail Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鹌</nom>
+        <unicode>U+9e4c</unicode>
+        <bothu>Bộ: điểu - 196S Số nét: 8</bothu>
+        <ngucanh>am thuần (chim cút)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: quail Âm Bắc Kinh: AN1 Âm Quảng Đông: AM1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -145,52 +243,84 @@
     <quocngu>an</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>安</hannom>
+        <nom>𩽾</nom>
+        <unicode>V+29f7e</unicode>
+        <bothu>Bộ: ngư - 0195 Số nét: 6</bothu>
+        <ngucanh>an (loại cá có râu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>安</nom>
+        <unicode>U+5b89</unicode>
+        <bothu>Bộ: miên - 0040 Số nét: 3</bothu>
         <ngucanh>an cư lạc nghiệp</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>to settle down</phienam>
+        <phienam>English: peaceful, tranquil, quiet Âm Bắc Kinh: AN1 YAO1 YAO4 Âm Quảng Đông: NGON1 ON1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>桉</hannom>
+        <nom>桉</nom>
+        <unicode>U+6849</unicode>
+        <bothu>Bộ: mộc - 0075 Số nét: 6</bothu>
         <ngucanh>an thụ (cây)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>tree</phienam>
+        <phienam>English:   Âm Bắc Kinh: AN4 Âm Quảng Đông: ON1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>氨</hannom>
+        <nom>氨</nom>
+        <unicode>U+6c28</unicode>
+        <bothu>Bộ: khí - 0084 Số nét: 6</bothu>
         <ngucanh>an (khí amonia)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>amonia</phienam>
+        <phienam>English: ammonia; hydrogen nitride Âm Bắc Kinh: AN1 Âm Quảng Đông: ON1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>胺</hannom>
+        <nom>胺</nom>
+        <unicode>U+80fa</unicode>
+        <bothu>Bộ: nhục - 0130 Số nét: 6</bothu>
         <ngucanh>an (chất amine)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>stench of rotten meat; (MSC) amine</phienam>
+        <phienam>English: amine Âm Bắc Kinh: E4 Âm Quảng Đông: ON1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>銨</hannom>
+        <nom>銨</nom>
+        <unicode>U+92a8</unicode>
+        <bothu>Bộ: kim - 0167 Số nét: 6</bothu>
         <ngucanh>an (chất ammonium)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>ammonium</phienam>
+        <phienam>English: ammonium Âm Bắc Kinh: AN1 Âm Quảng Đông: ON1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>铵</hannom>
+        <nom>铵</nom>
+        <unicode>U+94f5</unicode>
+        <bothu>Bộ: kim - 167S Số nét: 6</bothu>
         <ngucanh>an (chất ammonium)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>ammonium</phienam>
+        <phienam>English: ammonium Âm Bắc Kinh: AN1 Âm Quảng Đông: ON1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>鞌</hannom>
+        <nom>鞌</nom>
+        <unicode>U+978c</unicode>
+        <bothu>Bộ: cách - 0177 Số nét: 6</bothu>
         <ngucanh>an (yên ngựa)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>saddle</phienam>
+        <phienam>English:   Âm Bắc Kinh: AN1 MAN2 MEN4 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>鞍</hannom>
+        <nom>鞍</nom>
+        <unicode>U+978d</unicode>
+        <bothu>Bộ: cách - 0177 Số nét: 6</bothu>
         <ngucanh>an (yên ngựa)</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>saddle</phienam>
+        <phienam>English: saddle; any saddle-shaped object Âm Bắc Kinh: AN1 Âm Quảng Đông: ON1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鮟</nom>
+        <unicode>U+9b9f</unicode>
+        <bothu>Bộ: ngư - 0195 Số nét: 6</bothu>
+        <ngucanh>an (loại cá có râu)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: anglerfish Âm Bắc Kinh: AN4 Âm Quảng Đông:</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -198,28 +328,44 @@
     <quocngu>ang</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>坱</hannom>
+        <nom>𤮃</nom>
+        <unicode>V+24b83</unicode>
+        <bothu>Bộ: ngoã - 0098 Số nét: 10</bothu>
+        <ngucanh>cái ang (dụng cụ để đong gạo)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>坱</nom>
+        <unicode>U+5771</unicode>
+        <bothu>Bộ: thổ - 0032 Số nét: 5</bothu>
         <ngucanh>đổ một ang nước (đồ dùng bằng đất hay bằng đồng để đựng hay đo lường)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>earthenware or copper container used to hold or measure grain</phienam>
+        <phienam>English: dust Âm Bắc Kinh: YANG3 Âm Quảng Đông: YEUNG2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>垵</hannom>
+        <nom>垵</nom>
+        <unicode>U+57b5</unicode>
+        <bothu>Bộ: thổ - 0032 Số nét: 6</bothu>
         <ngucanh>cái ang (dụng cụ để đong gạo)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>container for measuring rice</phienam>
+        <phienam>English:   Âm Bắc Kinh: AN3 Âm Quảng Đông: AM2 YIM2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>󰤶</hannom>
-        <ngucanh>cái ang</ngucanh>
-        <nguon>ty_tdcn</nguon>
-        <phienam>container for measuring rice</phienam>
+        <nom>盎</nom>
+        <unicode>U+76ce</unicode>
+        <bothu>Bộ: mãnh - 0108 Số nét: 5</bothu>
+        <ngucanh>cái ang đong thóc</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: cup; pot; bowl; abundant Âm Bắc Kinh: ANG4 YAN4 Âm Quảng Đông: ONG3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>𤮃</hannom>
-        <ngucanh>cái ang (dụng cụ để đong gạo)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>container for measuring rice</phienam>
+        <nom>罰</nom>
+        <unicode>U+7f70</unicode>
+        <bothu>Bộ: võng - 0122 Số nét: 9</bothu>
+        <ngucanh>cái ang đong thóc</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: penalty, fine; punish, penalize Âm Bắc Kinh: FA2 Âm Quảng Đông: FAT6</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -227,88 +373,124 @@
     <quocngu>anh</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>嚶</hannom>
+        <nom>嚶</nom>
+        <unicode>U+56b6</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 17</bothu>
         <ngucanh>bụng kêu anh ách</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>sounds emitted from belly</phienam>
+        <phienam>English: seek friends; also used in names; the call of a bird Âm Bắc Kinh: YING1 Âm Quảng Đông: ANG1 YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>婴</hannom>
+        <nom>婴</nom>
+        <unicode>U+5a74</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 8</bothu>
         <ngucanh>anh hài (đứa bé mới sinh)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>new born baby</phienam>
+        <phienam>English: baby, infant; bother Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>嬰</hannom>
+        <nom>嬰</nom>
+        <unicode>U+5b30</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 14</bothu>
         <ngucanh>anh hài (đứa bé mới sinh)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>new born baby</phienam>
+        <phienam>English: baby, infant; bother Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>樱</hannom>
+        <nom>樱</nom>
+        <unicode>U+6a31</unicode>
+        <bothu>Bộ: mộc - 0075 Số nét: 11</bothu>
         <ngucanh>hoa anh đào</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>cherry blossom</phienam>
+        <phienam>English: cherry, cherry blossom Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>櫻</hannom>
+        <nom>櫻</nom>
+        <unicode>U+6afb</unicode>
+        <bothu>Bộ: mộc - 0075 Số nét: 17</bothu>
         <ngucanh>cây anh đào</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>cherry, cherry blossom</phienam>
+        <phienam>English: cherry, cherry blossom Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>纓</hannom>
+        <nom>纓</nom>
+        <unicode>U+7e93</unicode>
+        <bothu>Bộ: mịch - 0120 Số nét: 17</bothu>
         <ngucanh>hồng anh thượng (giáo dài có tua đỏ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>a long red spear</phienam>
+        <phienam>English: a chin strap, tassel; to annoy, bother Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>缨</hannom>
+        <nom>缨</nom>
+        <unicode>U+7f28</unicode>
+        <bothu>Bộ: mịch - 120S Số nét: 11</bothu>
         <ngucanh>hồng anh thượng (giáo dài có tua đỏ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>a long red spear</phienam>
+        <phienam>English: a chin strap; tassel; to annoy, bother Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>罂</hannom>
+        <nom>罂</nom>
+        <unicode>U+7f42</unicode>
+        <bothu>Bộ: phẫu - 0121 Số nét: 8</bothu>
         <ngucanh>quả anh túc</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>marijuana; poppy</phienam>
+        <phienam>English: long necked jar or bottle Âm Bắc Kinh: YING1 Âm Quảng Đông: AANG1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>罌</hannom>
+        <nom>罌</nom>
+        <unicode>U+7f4c</unicode>
+        <bothu>Bộ: phẫu - 0121 Số nét: 14</bothu>
         <ngucanh>quả anh túc</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>marijuana; poppy</phienam>
+        <phienam>English: long necked jar or bottle Âm Bắc Kinh: YING1 Âm Quảng Đông: AANG1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>英</hannom>
+        <nom>英</nom>
+        <unicode>U+82f1</unicode>
+        <bothu>Bộ: thảo - 0140 Số nét: 5</bothu>
         <ngucanh>anh hùng</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>brave, a hero</phienam>
+        <phienam>English: petal, flower, leaf; brave, a hero; England, English Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>莺</hannom>
+        <nom>莺</nom>
+        <unicode>U+83ba</unicode>
+        <bothu>Bộ: thảo - 0140 Số nét: 7</bothu>
         <ngucanh>chim vàng anh</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>a type of bird called Vàng Anh</phienam>
+        <phienam>English: oriole, green finch Âm Bắc Kinh: YING1 Âm Quảng Đông: ANG1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>鶧</hannom>
+        <nom>鶧</nom>
+        <unicode>U+9da7</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 9</bothu>
         <ngucanh>chim vàng anh</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>a type of bird called vàng anh</phienam>
+        <phienam>English:   Âm Bắc Kinh: YING1 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>󰚨</hannom>
-        <ngucanh>chim anh vũ</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>a type of bird called anh vu</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>鶯</hannom>
+        <nom>鶯</nom>
+        <unicode>U+9daf</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 10</bothu>
         <ngucanh>anh ca yến vũ (cảnh xuân vui vẻ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>happy scene of spring</phienam>
+        <phienam>English: oriole, green finch Âm Bắc Kinh: YING1 Âm Quảng Đông: ANG1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鸚</nom>
+        <unicode>U+9e1a</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 17</bothu>
+        <ngucanh>con vẹt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: species of parrot Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鹦</nom>
+        <unicode>U+9e66</unicode>
+        <bothu>Bộ: điểu - 196S Số nét: 11</bothu>
+        <ngucanh>con vẹt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: species of parrot Âm Bắc Kinh: YING1 Âm Quảng Đông: YING1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -316,40 +498,94 @@
     <quocngu>ao</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>凹</hannom>
-        <ngucanh>ao lõm lồi</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>concavo-convex pond</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>呦</hannom>
-        <ngucanh>ao ước</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>make a wish, dream</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>㘭</hannom>
+        <nom>㘭</nom>
+        <unicode>U+362d</unicode>
+        <bothu>Bộ: thổ - 0032 Số nét: 4</bothu>
         <ngucanh>ao cá</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>pond</phienam>
+        <phienam>English: (same as å?³) a hollow in the ground; a cavity, undulating Âm Bắc Kinh: AO4 Âm Quảng Đông: AU1 AU3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>坳</hannom>
+        <nom>凹</nom>
+        <unicode>U+51f9</unicode>
+        <bothu>Bộ: khảm - 0017 Số nét: 3</bothu>
+        <ngucanh>ao lõm lồi</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: concave, hollow, depressed; a pass, valley Âm Bắc Kinh: AO1 Âm Quảng Đông: AAU3 NAP1 WA1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>呦</nom>
+        <unicode>U+5466</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 5</bothu>
+        <ngucanh>ao ước</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: the bleating of the deer Âm Bắc Kinh: CHE4 YOU1 Âm Quảng Đông: YAU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>坳</nom>
+        <unicode>U+5773</unicode>
+        <bothu>Bộ: thổ - 0032 Số nét: 5</bothu>
         <ngucanh>ao hố</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>hole, tomb</phienam>
+        <phienam>English: a hollow in the ground, a cavity, depression; undulating, depressed Âm Bắc Kinh: AO4 Âm Quảng Đông: AAU1 AAU3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>𬇚</hannom>
-        <ngucanh>ao sâu sóng cả (cái hồ chỗ nước trũng lớn để thả cá)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>a body of water smaller than a lake</phienam>
+        <nom>泑</nom>
+        <unicode>U+6cd1</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 5</bothu>
+        <ngucanh>ao cá</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: the vitreous glaze on china, porcelain, etc. Âm Bắc Kinh: YOU3 Âm Quảng Đông: YAU2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>𪵲</hannom>
-        <ngucanh>ao sâu sóng cả (cái hồ chỗ nước trũng lớn để thả cá)</ngucanh>
+        <nom>鏖</nom>
+        <unicode>U+93d6</unicode>
+        <bothu>Bộ: kim - 0167 Số nét: 11</bothu>
+        <ngucanh>đánh giết dữ dội</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>a body of water smaller than a lake</phienam>
+        <phienam>English: to fight to the end, engage in a fierce battle Âm Bắc Kinh: AO2 Âm Quảng Đông: OU1</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>au</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>區</nom>
+        <unicode>U+5340</unicode>
+        <bothu>Bộ: phương - 0023 Số nét: 9</bothu>
+        <ngucanh>đỏ au (đỏ thắm, đỏ tươi)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: area, district, region, ward; surname Âm Bắc Kinh: QU1 Âm Quảng Đông: AU1 KEUI1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>泑</nom>
+        <unicode>U+6cd1</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 5</bothu>
+        <ngucanh>đỏ au (đỏ thắm, đỏ tươi)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: the vitreous glaze on china, porcelain, etc. Âm Bắc Kinh: YOU3 Âm Quảng Đông: YAU2</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>à</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>啊</nom>
+        <unicode>U+554a</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
+        <ngucanh>ề à, ậm à</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: exclamatory particle Âm Bắc Kinh: A5 QIANG1 Âm Quảng Đông: A1 A2 A3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>阿</nom>
+        <unicode>U+963f</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 5</bothu>
+        <ngucanh>à ra thế</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: prefix for people's names; used in transliteration Âm Bắc Kinh: A1 Âm Quảng Đông: A3 O1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -357,426 +593,28 @@
     <quocngu>ào</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>𠯻</hannom>
+        <nom>𠯻</nom>
+        <unicode>V+20bfb</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 4</bothu>
         <ngucanh>ào ào</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>impetuous</phienam>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>呦</hannom>
+        <nom>呦</nom>
+        <unicode>U+5466</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 5</bothu>
         <ngucanh>ào ào</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>impetuous</phienam>
+        <phienam>English: the bleating of the deer Âm Bắc Kinh: CHE4 YOU1 Âm Quảng Đông: YAU1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>𬇚</hannom>
-        <ngucanh>mưa ào ào như thác</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>the rain impetuously rumbled down like waterfalls</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>泑</hannom>
+        <nom>泑</nom>
+        <unicode>U+6cd1</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 5</bothu>
         <ngucanh>ào ào</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>impetuous</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>á</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>亚</hannom>
-        <ngucanh>á khôi (đỗ nhì)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>the second winner in a contest</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>亞</hannom>
-        <ngucanh>amen</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>the final sentence of prayers</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>哑</hannom>
-        <ngucanh>á khẩu (câm không nói)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>silent, dumb</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>啞</hannom>
-        <ngucanh>á khẩu (câm không nói)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>dumb, mute; become hoarse</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>娅</hannom>
-        <ngucanh>nữ á (đàn bà còn trẻ)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>young girl</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>婭</hannom>
-        <ngucanh>nữ á (đàn bà còn trẻ)</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>young girl</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>氩</hannom>
-        <ngucanh>chất argonium</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>argonium</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>氬</hannom>
-        <ngucanh>chất argonium</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>argonium</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>痖</hannom>
-        <ngucanh>á khẩu (câm không nói)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>dumb, mute; become hoarse</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>瘂</hannom>
-        <ngucanh>á khẩu (câm không nói)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>dumb, mute; become hoarse</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ác</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>恶</hannom>
-        <ngucanh>ác tâm</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>ferocious, fierce; cruel</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>惡</hannom>
-        <ngucanh>ác tâm</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>ferocious, fierce; cruel</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>握</hannom>
-        <ngucanh>ác biệt (bắt tay từ biệt)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>shake hand to say goodbye</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>渥</hannom>
-        <ngucanh>ác (thấm ướt)</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>to soak</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>癋</hannom>
-        <ngucanh>kẻ ác</ngucanh>
-        <nguon>ty_tdcn</nguon>
-        <phienam>bad guy</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>鴉</hannom>
-        <ngucanh>bóng ác</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>sunlight</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ách</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>厄</hannom>
-        <ngucanh>hiểm ách (hiểm yếu)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>important and very difficult of access</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>呃</hannom>
-        <ngucanh>ách (è) nấc cụt</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>hiccup</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>嗌</hannom>
-        <ngucanh>ách thống</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>pharynges</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>扼</hannom>
-        <ngucanh>ách yếu thuyết minh (nói ngay vào điểm chính)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>focus on straightforward points</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>搤</hannom>
-        <ngucanh>ách yếu thuyết minh (nói ngay vào điểm chính)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>focus on straightforward points</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ái</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>叆</hannom>
-        <ngucanh>ái đãi (mây đầy trời)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>cloud full of the sky</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>喝</hannom>
-        <ngucanh>Ái! dau!</ngucanh>
-        <nguon>ty_tdcn</nguon>
-        <phienam>Ouch! It hurts!</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>噯</hannom>
-        <ngucanh>xem ai</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>see ai</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>垭</hannom>
-        <ngucanh>ái (đất mùn)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>humus soil</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>埡</hannom>
-        <ngucanh>ái (đất mùn)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>humus soil</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>嬡</hannom>
-        <ngucanh>lệnh ái (tục gọi con gái người khác)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>the way to call daughter of others</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>愛</hannom>
-        <ngucanh>ngần ngại,ái ngại</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>worried; hesitant; fearful</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>暧</hannom>
-        <ngucanh>ảm ái (trời mờ mờ)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>dim sky</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>曖</hannom>
-        <ngucanh>ảm ái (trời mờ mờ)</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>dim sky</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>欸</hannom>
-        <ngucanh>ái (Ê!)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>a way of calling others</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>爱</hannom>
-        <ngucanh>yêu thương, ái quốc</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to love, to love the nation</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>蔼</hannom>
-        <ngucanh>ái nhiên (dễ thương)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>lovely</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>薆</hannom>
-        <ngucanh>cỏ ái</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>type of grass</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>藹</hannom>
-        <ngucanh>ái nhiên (dễ thương)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>lovely</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>誒</hannom>
-        <ngucanh>ngần ngại (ái ngại)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>hesistation</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>霭</hannom>
-        <ngucanh>mộ ái (sương chiều)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>evening dew</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ám</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>揞</hannom>
-        <ngucanh>ám (dán thuốc cao)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to glue medicated plaster</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>暗</hannom>
-        <ngucanh>thiên sắc tiện ám (trời tối dần)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>dark sky</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>腤</hannom>
-        <ngucanh>cháo ám</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>fish gruel</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>án</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>按</hannom>
-        <ngucanh>án mạch (bắt mạch)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>to feel the pulse</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ánh</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>媵</hannom>
-        <ngucanh/>
-        <nguon>gdhn</nguon>
-        <phienam>a maid who accompanies bride to her new home; to escort; a concubine</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>áo</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>𪥌</hannom>
-        <ngucanh>áo não (sâu kín)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>deep</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>奥</hannom>
-        <ngucanh>Áo (Austria)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>Austria</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>奧</hannom>
-        <ngucanh>cái áo</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>shirt</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>懊</hannom>
-        <ngucanh>áo não (hối tiếc)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to regret, to be sorry</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>袄</hannom>
-        <ngucanh>áo quần</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>clothes</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𬡢</hannom>
-        <ngucanh>bì áo (đồ mặc)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>clothes</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>襖</hannom>
-        <ngucanh>áo quần</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>clothes</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>隩</hannom>
-        <ngucanh>áo (chỗ nước hõm vào trong bờ)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>deep water</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>áp</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>压</hannom>
-        <ngucanh>áp chế</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to persecute</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>壓</hannom>
-        <ngucanh>áp xuống</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>to press</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>㛕</hannom>
-        <ngucanh/>
-        <nguon>gdhn</nguon>
-        <phienam>womanly, (same as 姶 ancient form) exquisite; fine, used in girl's name, clever; bright; nimble, cute; lovable</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>押</hannom>
-        <ngucanh>áp giải</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>to imprison, to detain</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>áy</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>噯</hannom>
-        <ngucanh>áy náy</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>to feel uneasy</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>意</hannom>
-        <ngucanh>áy náy</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to feel uneasy</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>愛</hannom>
-        <ngucanh>cỏ áy bóng tà (héo úa)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>faded, dead, withered</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>懓</hannom>
-        <ngucanh>áy náy</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>to feel uneasy</phienam>
+        <phienam>English: the vitreous glaze on china, porcelain, etc. Âm Bắc Kinh: YOU3 Âm Quảng Đông: YAU2</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -784,46 +622,76 @@
     <quocngu>âm</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>喑</hannom>
-        <ngucanh>âm vang</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>reverberation</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𤋾</hannom>
+        <nom>𤋾</nom>
+        <unicode>V+242fe</unicode>
+        <bothu>Bộ: hoả - 0086 Số nét: 9</bothu>
         <ngucanh>âm ỉ</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>dull and lasting</phienam>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>瘖</hannom>
+        <nom>喑</nom>
+        <unicode>U+5591</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 9</bothu>
+        <ngucanh>âm vang</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: to be dumb; the sobbing of infants Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAM1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>瘖</nom>
+        <unicode>U+7616</unicode>
+        <bothu>Bộ: nạch - 0104 Số nét: 9</bothu>
         <ngucanh>âm (bệnh câm)</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>dumb, mute, unable speak</phienam>
+        <phienam>English: dumb, mute, unable speak Âm Bắc Kinh: LOU4 YIN1 Âm Quảng Đông: YAM1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>窨</hannom>
+        <nom>窨</nom>
+        <unicode>U+7aa8</unicode>
+        <bothu>Bộ: huyệt - 0116 Số nét: 9</bothu>
         <ngucanh>âm (ướp hương trà)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>mixed with the essence of tea</phienam>
+        <phienam>English: a cellar, a store-room Âm Bắc Kinh: YIN4 Âm Quảng Đông: FAN1 YAM3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>萻</hannom>
+        <nom>萻</nom>
+        <unicode>U+843b</unicode>
+        <bothu>Bộ: thảo - 0140 Số nét: 9</bothu>
         <ngucanh>ấm cúng, ấm áp</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>warm</phienam>
+        <phienam>English:   Âm Bắc Kinh: AN1 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>阴</hannom>
+        <nom>阴</nom>
+        <unicode>U+9634</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 4</bothu>
         <ngucanh>âm dương; âm hồn</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>this world and the other world, the soul of dead people</phienam>
+        <phienam>English: 'female' principle; dark; secret Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAM1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>陰</hannom>
+        <nom>陰</nom>
+        <unicode>U+9670</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 8</bothu>
         <ngucanh>âm dương</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>this world and the other world</phienam>
+        <phienam>English: 'female' principle; dark; secret Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAM1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>隂</nom>
+        <unicode>U+9682</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 9</bothu>
+        <ngucanh>âm thầm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: shady, secret, dark; mysterious; cold; the negative of female principle in nature Âm Bắc Kinh: YIN1 Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>音</nom>
+        <unicode>U+97f3</unicode>
+        <bothu>Bộ: âm - 0180 Số nét:</bothu>
+        <ngucanh>âm thanh</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: sound, tone, pitch, pronunciation Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAM1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -831,10 +699,28 @@
     <quocngu>ân</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>恩</hannom>
+        <nom>恩</nom>
+        <unicode>U+6069</unicode>
+        <bothu>Bộ: tâm - 0061 Số nét: 6</bothu>
         <ngucanh>ân trời</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>the favour of sky</phienam>
+        <phienam>English: kindness, mercy, charity Âm Bắc Kinh: EN1 Âm Quảng Đông: YAN1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>慇</nom>
+        <unicode>U+6147</unicode>
+        <bothu>Bộ: tâm - 0061 Số nét: 10</bothu>
+        <ngucanh>ân cần</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: careful, anxious, attentive Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAN1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>殷</nom>
+        <unicode>U+6bb7</unicode>
+        <bothu>Bộ: thù - 0079 Số nét: 6</bothu>
+        <ngucanh>ân cần</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: many, great; abundant, flourishing Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAN1 YIN1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -842,94 +728,153 @@
     <quocngu>âu</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>区</hannom>
-        <ngucanh>họ Âu</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>Âu-family name</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>區</hannom>
-        <ngucanh>họ Âu</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>Âu-family name</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>怄</hannom>
-        <ngucanh>âu yếm</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to caress, to fondle</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>󰆦</hannom>
-        <ngucanh>âu sầu</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>sad</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>憂</hannom>
-        <ngucanh>âu yếm; âu lo</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to fondle; to worry</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>慪</hannom>
-        <ngucanh>âu yếm</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to caress, to fondle</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>欧</hannom>
-        <ngucanh>đàn bà thế ấy âu một người</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>only one</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>歐</hannom>
-        <ngucanh>âu châu</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>European</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>漚</hannom>
-        <ngucanh>âu (bọt nước)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>foam of water</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>瓯</hannom>
-        <ngucanh>bát lớn</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>a big bowl</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>甌</hannom>
-        <ngucanh>cái âu đựng mỡ</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>bowl used to keep grease</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𤮥</hannom>
+        <nom>𤮥</nom>
+        <unicode>V+24ba5</unicode>
+        <bothu>Bộ: ngoã - 0098 Số nét: 15</bothu>
         <ngucanh>cái âu</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>a bowl containing food</phienam>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>謳</hannom>
+        <nom>区</nom>
+        <unicode>U+533a</unicode>
+        <bothu>Bộ: phương - 0023 Số nét: 2</bothu>
+        <ngucanh>họ Âu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: area, district, region, ward Âm Bắc Kinh: QU1 Âm Quảng Đông: AU1 KEUI1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>區</nom>
+        <unicode>U+5340</unicode>
+        <bothu>Bộ: phương - 0023 Số nét: 9</bothu>
+        <ngucanh>họ Âu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: area, district, region, ward; surname Âm Bắc Kinh: QU1 Âm Quảng Đông: AU1 KEUI1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>幼</nom>
+        <unicode>U+5e7c</unicode>
+        <bothu>Bộ: yêu - 0052 Số nét: 2</bothu>
+        <ngucanh>ấu trĩ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: infant, young child; immature Âm Bắc Kinh: YOU4 Âm Quảng Đông: YAU3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>怄</nom>
+        <unicode>U+6004</unicode>
+        <bothu>Bộ: tâm - 0061 Số nét: 4</bothu>
+        <ngucanh>âu yếm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: annoyed Âm Bắc Kinh: OU4 Âm Quảng Đông: AU3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>慪</nom>
+        <unicode>U+616a</unicode>
+        <bothu>Bộ: tâm - 0061 Số nét: 11</bothu>
+        <ngucanh>âu yếm</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: annoyed Âm Bắc Kinh: OU4 Âm Quảng Đông: AU3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>憂</nom>
+        <unicode>U+6182</unicode>
+        <bothu>Bộ: tâm - 0061 Số nét: 11</bothu>
+        <ngucanh>âu yếm; âu lo</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: sad, grieved; grief, melancholy Âm Bắc Kinh: YOU1 ZHENG4 Âm Quảng Đông: YAU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>欧</nom>
+        <unicode>U+6b27</unicode>
+        <bothu>Bộ: khiếm - 0076 Số nét: 4</bothu>
+        <ngucanh>đàn bà thế ấy âu một người</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: translit.: Europe; ohm; surname Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1 NGAU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>歐</nom>
+        <unicode>U+6b50</unicode>
+        <bothu>Bộ: khiếm - 0076 Số nét: 11</bothu>
+        <ngucanh>âu châu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: used in transliterating non-Chinese words such as Europe, ohm; surname Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1 NGAU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>漚</nom>
+        <unicode>U+6f1a</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 11</bothu>
+        <ngucanh>âu (bọt nước)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: soak, steep; sodden, soaked; rotten; foam, froth Âm Bắc Kinh: OU4 Âm Quảng Đông: AU1 AU3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>瓯</nom>
+        <unicode>U+74ef</unicode>
+        <bothu>Bộ: ngoã - 0098 Số nét: 4</bothu>
+        <ngucanh>bát lớn</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: bowl, cup; small tray Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>甌</nom>
+        <unicode>U+750c</unicode>
+        <bothu>Bộ: ngoã - 0098 Số nét: 11</bothu>
+        <ngucanh>cái âu đựng mỡ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: bowl, cup; small tray Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>謳</nom>
+        <unicode>U+8b33</unicode>
+        <bothu>Bộ: ngôn - 0149 Số nét: 11</bothu>
         <ngucanh>âu ca (xướng hát)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>sing in chorus the praises</phienam>
+        <phienam>English: to sing; songs Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>讴</hannom>
+        <nom>讴</nom>
+        <unicode>U+8bb4</unicode>
+        <bothu>Bộ: ngôn - 149S Số nét: 4</bothu>
         <ngucanh>âu ca</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>sing in chorus the praises</phienam>
+        <phienam>English: sing; songs Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>鴎</hannom>
+        <nom>鴎</nom>
+        <unicode>U+9d0e</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 4</bothu>
         <ngucanh>hải âu</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>gull; seamen</phienam>
+        <phienam>English: seagull, tern Âm Bắc Kinh: OU1 Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鷗</nom>
+        <unicode>U+9dd7</unicode>
+        <bothu>Bộ: điểu - 0196 Số nét: 11</bothu>
+        <ngucanh>hải âu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: seagull, tern Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>鸥</nom>
+        <unicode>U+9e25</unicode>
+        <bothu>Bộ: điểu - 196S Số nét: 4</bothu>
+        <ngucanh>hải âu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: seagull, tern Âm Bắc Kinh: OU1 Âm Quảng Đông: AU1</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ăm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>奄</nom>
+        <unicode>U+5944</unicode>
+        <bothu>Bộ: đại - 0037 Số nét: 5</bothu>
+        <ngucanh>đầy ăm ắp</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: ere long; remain, tarry; feeble Âm Bắc Kinh: YAN1 YAN3 Âm Quảng Đông: YIM2</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -937,10 +882,20 @@
     <quocngu>ăn</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>咹</hannom>
+        <nom>𩛖</nom>
+        <unicode>V+296d6</unicode>
+        <bothu>Bộ: thực - 0184 Số nét: 6</bothu>
+        <ngucanh>ăn cơm, ăn uống</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>咹</nom>
+        <unicode>U+54b9</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 6</bothu>
         <ngucanh>ăn</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>to eat</phienam>
+        <phienam>English:   Âm Bắc Kinh: E4 Âm Quảng Đông:</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -948,10 +903,20 @@
     <quocngu>ăng</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>咹</hannom>
-        <ngucanh>ăng ắp</ngucanh>
-        <nguon>ty_tdcn</nguon>
-        <phienam>full</phienam>
+        <nom>盎</nom>
+        <unicode>U+76ce</unicode>
+        <bothu>Bộ: mãnh - 0108 Số nét: 5</bothu>
+        <ngucanh>ăng ẳng, ăng ắc (đầy tràn)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: cup; pot; bowl; abundant Âm Bắc Kinh: ANG4 YAN4 Âm Quảng Đông: ONG3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>隱</nom>
+        <unicode>U+96b1</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 14</bothu>
+        <ngucanh>ăng ẳng, ăng ắc (đầy tràn)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: hide, conceal; hidden, secret Âm Bắc Kinh: YIN3 YIN4 Âm Quảng Đông: YAN2</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -959,10 +924,62 @@
     <quocngu>ạ</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>啊</hannom>
+        <nom>𠶚</nom>
+        <unicode>V+20d9a</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
+        <ngucanh>vâng ạ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>啊</nom>
+        <unicode>U+554a</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
         <ngucanh>A!</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>exclamatory particle</phienam>
+        <phienam>English: exclamatory particle Âm Bắc Kinh: A5 QIANG1 Âm Quảng Đông: A1 A2 A3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>啞</nom>
+        <unicode>U+555e</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 8</bothu>
+        <ngucanh>á khẩu</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: dumb, mute; become hoarse Âm Bắc Kinh: YA3 Âm Quảng Đông: A1 A2</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ạch</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>厄</nom>
+        <unicode>U+5384</unicode>
+        <bothu>Bộ: hán - 0027 Số nét: 2</bothu>
+        <ngucanh>ngã ạch ạch</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: adversity, difficulty, distress Âm Bắc Kinh: E4 Âm Quảng Đông: AK1</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ạo</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>𠯻</nom>
+        <unicode>V+20bfb</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 4</bothu>
+        <ngucanh>ạo ực (rất tức)</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>呦</nom>
+        <unicode>U+5466</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 5</bothu>
+        <ngucanh>ạo ực (rất tức)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: the bleating of the deer Âm Bắc Kinh: CHE4 YOU1 Âm Quảng Đông: YAU1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -970,16 +987,20 @@
     <quocngu>ả</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>妸</hannom>
+        <nom>妸</nom>
+        <unicode>U+59b8</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 5</bothu>
         <ngucanh>cô ả</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>a young girl</phienam>
+        <phienam>English: person Âm Bắc Kinh: E1 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>婭</hannom>
+        <nom>婭</nom>
+        <unicode>U+5a6d</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 8</bothu>
         <ngucanh>cô ả</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>a young girl</phienam>
+        <phienam>English: mutual term of address used by sons-in-law; a brother-in-law Âm Bắc Kinh: YA4 Âm Quảng Đông: A3</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -987,34 +1008,73 @@
     <quocngu>ải</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>呃</hannom>
+        <nom>呃</nom>
+        <unicode>U+5443</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 4</bothu>
         <ngucanh>xem ách</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>see ach</phienam>
+        <phienam>English: belch; hiccup Âm Bắc Kinh: E4 Âm Quảng Đông: AAK1 AK1</phienam>
       </phanloai>
       <phanloai>
-        <hannom>溢</hannom>
+        <nom>溢</nom>
+        <unicode>U+6ea2</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 10</bothu>
         <ngucanh>ải (nát)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>crushed</phienam>
+        <phienam>English: overflow, brim over; full Âm Bắc Kinh: YI4 Âm Quảng Đông: YAT6</phienam>
       </phanloai>
       <phanloai>
-        <hannom>矮</hannom>
+        <nom>矮</nom>
+        <unicode>U+77ee</unicode>
+        <bothu>Bộ: thỉ - 0111 Số nét: 8</bothu>
         <ngucanh>nước da ải ải (da hơi xanh)</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>pale skin</phienam>
+        <phienam>English: short, dwarf; low Âm Bắc Kinh: AI3 Âm Quảng Đông: AI2 NGAI2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>縊</hannom>
+        <nom>縊</nom>
+        <unicode>U+7e0a</unicode>
+        <bothu>Bộ: mịch - 0120 Số nét: 10</bothu>
         <ngucanh>tự ải (thắt cổ mà chết)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>to suicide</phienam>
+        <phienam>English: hang, strangle Âm Bắc Kinh: YI4 Âm Quảng Đông: AI3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>缢</hannom>
+        <nom>缢</nom>
+        <unicode>U+7f22</unicode>
+        <bothu>Bộ: mịch - 120S Số nét: 10</bothu>
         <ngucanh>tự ải (thắt cổ mà chết)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>to suicide</phienam>
+        <phienam>English: hang, strangle Âm Bắc Kinh: YI4 Âm Quảng Đông: AI3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>薆</nom>
+        <unicode>U+8586</unicode>
+        <bothu>Bộ: thảo - 0140 Số nét: 13</bothu>
+        <ngucanh/>
+        <nguon>btcn</nguon>
+        <phienam>English: to cover; to hide; to conceal Âm Bắc Kinh: AI4 Âm Quảng Đông: OI3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>隘</nom>
+        <unicode>U+9698</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 10</bothu>
+        <ngucanh>ải Vân quan (nơi hiểm trở, giáp giới giữa hai nước)</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: narrow, confined; a strategic pass Âm Bắc Kinh: AI4 E4 Âm Quảng Đông: AAI3</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ảm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>黯</nom>
+        <unicode>U+9eef</unicode>
+        <bothu>Bộ: hắc - 0203 Số nét: 9</bothu>
+        <ngucanh>ảm đạm</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: dark, black; sullen, dreary Âm Bắc Kinh: AN1 AN4 Âm Quảng Đông: AM2</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -1022,10 +1082,28 @@
     <quocngu>ảnh</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>影</hannom>
+        <nom>影</nom>
+        <unicode>U+5f71</unicode>
+        <bothu>Bộ: sam - 0059 Số nét: 12</bothu>
         <ngucanh>hình ảnh</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>picture, image</phienam>
+        <phienam>English: shadow; image, reflection; photograph Âm Bắc Kinh: YING3 Âm Quảng Đông: YING2</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>瘿</nom>
+        <unicode>U+763f</unicode>
+        <bothu>Bộ: nạch - 0104 Số nét: 11</bothu>
+        <ngucanh>ảnh (bệnh bướu cổ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: swelling, goiter Âm Bắc Kinh: YING3 Âm Quảng Đông: YING2</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>癭</nom>
+        <unicode>U+766d</unicode>
+        <bothu>Bộ: nạch - 0104 Số nét: 17</bothu>
+        <ngucanh>ảnh (bệnh bướu cổ)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: swelling, goiter Âm Bắc Kinh: BA2 YING3 Âm Quảng Đông: YING2</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -1033,261 +1111,57 @@
     <quocngu>ảo</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>幻</hannom>
+        <nom>幻</nom>
+        <unicode>U+5e7b</unicode>
+        <bothu>Bộ: yêu - 0052 Số nét: 1</bothu>
         <ngucanh>ảo ảnh, mờ ảo</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>illusion, vaporous</phienam>
+        <phienam>English: illusion, fantasy, mirage Âm Bắc Kinh: HUAN4 Âm Quảng Đông: WAAN6</phienam>
       </phanloai>
       <phanloai>
-        <hannom>󰆈</hannom>
-        <ngucanh>mờ ảo</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>ethereal, vaporous</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>懊</hannom>
+        <nom>懊</nom>
+        <unicode>U+61ca</unicode>
+        <bothu>Bộ: tâm - 0061 Số nét: 13</bothu>
         <ngucanh>ảo não</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>doleful</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>Ấn</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>印</hannom>
-        <ngucanh>ấn tín (con dấu)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>common seal</phienam>
+        <phienam>English: vexed, worried, nervous; regret Âm Bắc Kinh: AO4 YU2 Âm Quảng Đông: OU3</phienam>
       </phanloai>
       <phanloai>
-        <hannom>按</hannom>
-        <ngucanh>ấn chặt</ngucanh>
+        <nom>抝</nom>
+        <unicode>U+629d</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 4</bothu>
+        <ngucanh>ảo đoạn (bẻ gẫy)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>put hand on, press down with hand</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ấm</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>喑</hannom>
-        <ngucanh>ấm áp</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>cosy, warm</phienam>
+        <phienam>English:   Âm Bắc Kinh: AO3 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>𠿮</hannom>
-        <ngucanh>ấm ức</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>full of pent-up resentment</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>堷</hannom>
-        <ngucanh>ấm nước</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>a terra-cotta container in which to boil liquids, cook foods</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𡓅</hannom>
-        <ngucanh>ấm nước</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>pot, kettle</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>󰅗</hannom>
-        <ngucanh>ấm pha trà</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>tea pot</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𢉩</hannom>
-        <ngucanh>ấm đầu; cậu ấm</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>mad;  Mandarin's son</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>廕</hannom>
-        <ngucanh>cậu ấm cô chiêu</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>son of wealthy family</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𤋾</hannom>
-        <ngucanh>Vân Tiên vừa ấm chân tay</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>having a sensation of bodily heat</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𤭵</hannom>
-        <ngucanh>cái ấm nấu nước</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>kettle</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>瘖</hannom>
-        <ngucanh>câm</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>dumb, mute, unable speak</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>荫</hannom>
-        <ngucanh>ấm (bóng dâm)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>shade, shelter; protect</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>蔭</hannom>
-        <ngucanh>bóng dâm, che kín</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>shade, shelter; protect</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𮢣</hannom>
-        <ngucanh>ấm trà</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>tea pot</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ấn</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>印</hannom>
-        <ngucanh>ấn tín (con dấu)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>common seal</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>按</hannom>
-        <ngucanh>ấn chặt</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>put hand on, press down with hand</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ấp</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>悒</hannom>
-        <ngucanh>ấp bất lạc (lo lắng không yên)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to be in a state of anxious suspense</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>挹</hannom>
-        <ngucanh>ẩm thấp</ngucanh>
+        <nom>拗</nom>
+        <unicode>U+62d7</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 5</bothu>
+        <ngucanh>mờ ảo</ngucanh>
         <nguon>btcn</nguon>
-        <phienam>humid, damp</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>揖</hannom>
-        <ngucanh>ấp trứng</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>to hatch, to incubate</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>浥</hannom>
-        <ngucanh>ẩm thấp</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>humid</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>邑</hannom>
-        <ngucanh>ấp lạc (thôn nhỏ trong ấp)</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>small houses in an hamlet</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𬪁</hannom>
-        <ngucanh>ấp trứng</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>to hatch</phienam>
+        <phienam>English: to pull, drag, break off, to pluck (a flower); bent, warped; perverse, obstinate Âm Bắc Kinh: AO3 AO4 NIU4 Âm Quảng Đông: AAU2 AAU3</phienam>
       </phanloai>
     </dinhnghia>
   </word>
   <word>
-    <quocngu>ất</quocngu>
+    <quocngu>ầm</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>乙</hannom>
-        <ngucanh>ất bảng</ngucanh>
+        <nom>𩆢</nom>
+        <unicode>V+291a2</unicode>
+        <bothu>Bộ: vũ - 0173 Số nét: 14</bothu>
+        <ngucanh>tiếng ầm ầm</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>the second Heaven's Stem</phienam>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>乚</hannom>
-        <ngucanh>ất (bộ gốc)</ngucanh>
-        <nguon>hvtd</nguon>
-        <phienam>radical set</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>乛</hannom>
-        <ngucanh>ất (bộ gốc)</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>radical set</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ấu</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>幼</hannom>
-        <ngucanh>thơ ấu</ngucanh>
+        <nom>喑</nom>
+        <unicode>U+5591</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 9</bothu>
+        <ngucanh>ầm ầm</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>of tender age</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>拗</hannom>
-        <ngucanh>trái ấu</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>water chestnut</phienam>
-      </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ấy</quocngu>
-    <dinhnghia>
-      <phanloai>
-        <hannom>𱍸</hannom>
-        <ngucanh>việc ấy</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>that work</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𠂎</hannom>
-        <ngucanh>người ấy</ngucanh>
-        <nguon>vhn</nguon>
-        <phienam>that person</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𫢚</hannom>
-        <ngucanh>việc ấy</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>that work</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>倚</hannom>
-        <ngucanh>người ấy</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>that person</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>意</hannom>
-        <ngucanh>chốn ấy</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>that place</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𪬫</hannom>
-        <ngucanh>ấy là; người ấy</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>that is, that person</phienam>
+        <phienam>English: to be dumb; the sobbing of infants Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAM1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -1295,28 +1169,36 @@
     <quocngu>ẩm</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>𰛺</hannom>
-        <ngucanh>ẩm mốc</ngucanh>
-        <nguon>gdhn</nguon>
-        <phienam>get mould because of dampness</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𣼩</hannom>
+        <nom>𣼩</nom>
+        <unicode>V+23f29</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 11</bothu>
         <ngucanh>ẩm ướt, ẩm thấp</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>moist, clammy and wet</phienam>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>𭲪</hannom>
-        <ngucanh>ẩm thấp</ngucanh>
-        <nguon>ty_tdcn</nguon>
-        <phienam>damp</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>𤀔</hannom>
+        <nom>𤀔</nom>
+        <unicode>V+24014</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 13</bothu>
         <ngucanh>gạo ẩm</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>wet rice</phienam>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>飲</nom>
+        <unicode>U+98f2</unicode>
+        <bothu>Bộ: thực - 0184 Số nét: 4</bothu>
+        <ngucanh>ẩm ướt</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: drink; swallow; kind of drink Âm Bắc Kinh: YIN3 Âm Quảng Đông: YAM2 YAM3</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>饮</nom>
+        <unicode>U+996e</unicode>
+        <bothu>Bộ: thực - 184S Số nét: 4</bothu>
+        <ngucanh>ẩm ướt</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: drink; swallow; kind of drink Âm Bắc Kinh: YIN3 Âm Quảng Đông: YAM2 YAM3</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -1324,16 +1206,36 @@
     <quocngu>ẩn</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>瘾</hannom>
+        <nom>瘾</nom>
+        <unicode>U+763e</unicode>
+        <bothu>Bộ: nạch - 0104 Số nét: 11</bothu>
         <ngucanh>yên ẩn (mê khó bỏ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>passion which can not give up</phienam>
+        <phienam>English: rash; addiction, craving, habit Âm Bắc Kinh: YIN3 Âm Quảng Đông: YAN5</phienam>
       </phanloai>
       <phanloai>
-        <hannom>癮</hannom>
+        <nom>癮</nom>
+        <unicode>U+766e</unicode>
+        <bothu>Bộ: nạch - 0104 Số nét: 17</bothu>
         <ngucanh>yên ẩn (mê khó bỏ)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>passion which can not give up</phienam>
+        <phienam>English: rash; addiction, craving, habit Âm Bắc Kinh: YIN3 Âm Quảng Đông: YAN5</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>隐</nom>
+        <unicode>U+9690</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 9</bothu>
+        <ngucanh>ẩn dật</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: hide, conceal; hidden, secret Âm Bắc Kinh: YIN3 Âm Quảng Đông: YAN2</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>隱</nom>
+        <unicode>U+96b1</unicode>
+        <bothu>Bộ: phụ - 0170 Số nét: 14</bothu>
+        <ngucanh>ẩn dật</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: hide, conceal; hidden, secret Âm Bắc Kinh: YIN3 YIN4 Âm Quảng Đông: YAN2</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -1341,46 +1243,123 @@
     <quocngu>ẩu</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>呕</hannom>
+        <nom>呕</nom>
+        <unicode>U+5455</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 4</bothu>
         <ngucanh>ẩu tả (nôn mửa)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>vomit, throw up</phienam>
+        <phienam>English: vomit; annoy, enrage Âm Bắc Kinh: OU1 Âm Quảng Đông: AU2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>嘔</hannom>
+        <nom>嘔</nom>
+        <unicode>U+5614</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 11</bothu>
         <ngucanh>ẩu tả (nôn mửa)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>vomit, throw up</phienam>
+        <phienam>English: to vomit; annoy, enrage Âm Bắc Kinh: OU1 Âm Quảng Đông: AU2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>妪</hannom>
+        <nom>妪</nom>
+        <unicode>U+59aa</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 4</bothu>
         <ngucanh>triệu ẩu (bà đáng kính)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>respectable woman</phienam>
+        <phienam>English: old woman, hag Âm Bắc Kinh: YU4 Âm Quảng Đông: YU2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>媪</hannom>
+        <nom>媪</nom>
+        <unicode>U+5aaa</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 9</bothu>
         <ngucanh>xem ảo</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>see ảo</phienam>
+        <phienam>English: old woman; lower-class woman Âm Bắc Kinh: AO3 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>嫗</hannom>
+        <nom>嫗</nom>
+        <unicode>U+5ad7</unicode>
+        <bothu>Bộ: nữ - 0038 Số nét: 11</bothu>
         <ngucanh>triệu ẩu (bà đáng kính)</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>respectable woman</phienam>
+        <phienam>English: old woman, hag Âm Bắc Kinh: YU3 YU4 Âm Quảng Đông: YU2</phienam>
       </phanloai>
       <phanloai>
-        <hannom>抝</hannom>
+        <nom>抝</nom>
+        <unicode>U+629d</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 4</bothu>
         <ngucanh>ẩu tả (đánh lộn)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>to beat; to strike; to fight; to combat</phienam>
+        <phienam>English:   Âm Bắc Kinh: AO3 Âm Quảng Đông:</phienam>
       </phanloai>
       <phanloai>
-        <hannom>殴</hannom>
+        <nom>殴</nom>
+        <unicode>U+6bb4</unicode>
+        <bothu>Bộ: thù - 0079 Số nét: 4</bothu>
         <ngucanh>ẩu tả (đánh lộn)</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>to beat; to strike; to fight; to combat</phienam>
+        <phienam>English: beat, fight with fists, hit Âm Bắc Kinh: OU1 Âm Quảng Đông: AU2</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>毆</nom>
+        <unicode>U+6bc6</unicode>
+        <bothu>Bộ: thù - 0079 Số nét: 11</bothu>
+        <ngucanh>ẩu tả (đánh lộn)</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: beat, fight with fists, hit; to strike, brawl Âm Bắc Kinh: OU1 Âm Quảng Đông: AU2</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ẩy</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>𢶶</nom>
+        <unicode>V+22db6</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 13</bothu>
+        <ngucanh>ẩy ngã</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>挨</nom>
+        <unicode>U+6328</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 7</bothu>
+        <ngucanh>ẩy ngã</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English: near, close by, next to, towards, against; to wait; to lean on Âm Bắc Kinh: AI1 AI2 Âm Quảng Đông: AAI1</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ẫm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>𠿮</nom>
+        <unicode>V+20fee</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 13</bothu>
+        <ngucanh>ẫm ờ, ỡm ờ</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  <word>
+    <quocngu>ậm</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <nom>𠿮</nom>
+        <unicode>V+20fee</unicode>
+        <bothu>Bộ: khẩu - 0030 Số nét: 13</bothu>
+        <ngucanh>nói ậm ừ</ngucanh>
+        <nguon>gdhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>音</nom>
+        <unicode>U+97f3</unicode>
+        <bothu>Bộ: âm - 0180 Số nét:</bothu>
+        <ngucanh>ậm à ậm ừ</ngucanh>
+        <nguon>btcn</nguon>
+        <phienam>English: sound, tone, pitch, pronunciation Âm Bắc Kinh: YIN1 Âm Quảng Đông: YAM1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
@@ -1388,38 +1367,41 @@
     <quocngu>ập</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>揖</hannom>
+        <nom>𨁲</nom>
+        <unicode>V+28072</unicode>
+        <bothu>Bộ: túc - 0157 Số nét: 7</bothu>
+        <ngucanh>chúng tôi ập vào nhà</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English:   Âm Bắc Kinh:   Âm Quảng Đông:</phienam>
+      </phanloai>
+      <phanloai>
+        <nom>揖</nom>
+        <unicode>U+63d6</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 9</bothu>
         <ngucanh>đổ ập</ngucanh>
         <nguon>vhn</nguon>
-        <phienam>to rush into</phienam>
+        <phienam>English: salute, bow; defer to, yield Âm Bắc Kinh: YI1 Âm Quảng Đông: YAP1</phienam>
       </phanloai>
-    </dinhnghia>
-  </word>
-  <word>
-    <quocngu>ắp</quocngu>
-    <dinhnghia>
       <phanloai>
-        <hannom>押</hannom>
-        <ngucanh>đầy ắp</ngucanh>
+        <nom>浥</nom>
+        <unicode>U+6d65</unicode>
+        <bothu>Bộ: thuỷ - 0085 Số nét: 7</bothu>
+        <ngucanh>đổ ập xuống</ngucanh>
         <nguon>gdhn</nguon>
-        <phienam>full, filled</phienam>
-      </phanloai>
-      <phanloai>
-        <hannom>抽</hannom>
-        <ngucanh>đầy ắp</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>full, filled</phienam>
+        <phienam>English: moist, wet, dampen Âm Bắc Kinh: YI4 Âm Quảng Đông: YAP1</phienam>
       </phanloai>
     </dinhnghia>
   </word>
   <word>
-    <quocngu>ắt</quocngu>
+    <quocngu>ẵm</quocngu>
     <dinhnghia>
       <phanloai>
-        <hannom>乙</hannom>
-        <ngucanh>ắt là (đúng như vậy, chắc thế)</ngucanh>
-        <nguon>btcn</nguon>
-        <phienam>surely, certainly</phienam>
+        <nom>揞</nom>
+        <unicode>U+63de</unicode>
+        <bothu>Bộ: thủ - 0064 Số nét: 9</bothu>
+        <ngucanh>ẵm bế</ngucanh>
+        <nguon>vhn</nguon>
+        <phienam>English: to cover (with the hand) Âm Bắc Kinh: AN3 Âm Quảng Đông: AM2</phienam>
       </phanloai>
     </dinhnghia>
   </word>

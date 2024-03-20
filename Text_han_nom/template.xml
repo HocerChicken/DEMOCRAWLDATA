@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dictionary>
+  <word>
+    <quocngu>"quocngu"</quocngu>
+    <dinhnghia>
+      <phanloai>
+        <hannom>"hannom"</hannom>
+        <ngucanh>"ngucanh"</ngucanh>
+        <nguon>"nguon"</nguon>
+        <phienam>"phienam"</phienam>
+      </phanloai>
+      <phanloai>
+        <hannom>"hannom2"</hannom>
+        <ngucanh>"ngucanh2"</ngucanh>
+        <nguon>"nguon2"</nguon>
+        <phienam>"phienam2"</phienam>
+      </phanloai>
+    </dinhnghia>
+  </word>
+  ...
+</dictionary>

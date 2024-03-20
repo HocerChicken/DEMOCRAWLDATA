@@ -71,7 +71,6 @@ def prettify(elem):
 
 def main():
     xml_root = Element('dictionary')
-
     with open('text_u_v_x_filtered.txt', 'r', encoding='utf-8') as file:
         data_list = [line.strip() for line in file.readlines()]
     process_words(data_list, xml_root) 

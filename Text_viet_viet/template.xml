@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<dictionary>
+  <word>
+    <title>word</title>
+    <definitions>
+      <source class="source">
+        <meaning>meaning</meaning>
+        <meaning>meaning</meaning>
+      </source>
+      <source class="source">
+        <meaning>meaing</meaning>
+      </source>
+    </definitions>
+  </word>
+  ...
+<dictionary>

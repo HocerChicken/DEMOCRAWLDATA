@@ -64,7 +64,7 @@ def normalize(word, data, xml_root):
             nom_elem = SubElement(phanloai_elem, "nom")
             nom_elem.text = line[1][0:1]  
 
-            unicode_elem = SubElement(phanloai_elem, "unicode")
+            unicode_elem = SubElement(phanloai_elem, "maunicode")
             unicode_elem.text = line[1][1:]
             
             bothu_elem = SubElement(phanloai_elem, "bothu")
